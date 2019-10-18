@@ -19,7 +19,7 @@ date_format = "January 2, 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Associate Professor"
-  company = "University of Western Brittany, LaTIM, INSERM UMR 1101"
+  company = "LaTIM, INSERM UMR 1101, University of Western Brittany"
   company_url = ""
   location = "Brest, France"
   date_start = "2018-09-01"
@@ -29,8 +29,8 @@ date_format = "January 2, 2006"
   """
 
 [[experience]]
-  title = "Research Associate"
-  company = "University College London"
+  title = "Postdoctoral Researcher"
+  company = "Institute of Nuclear Medicine, University College London"
   company_url = ""
   location = "London, UK"
   date_start = "2009-04-01"

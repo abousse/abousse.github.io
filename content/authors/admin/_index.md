@@ -14,9 +14,9 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: University of Western Brittany
 - name: LaTIM, INSERM UMR 1101
-  url: ""
+- name: University of Western Brittany
+url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -28,15 +28,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: HDR in Science (habilitation thesis) 
+    institution: University of Western Brittany 
+    year: 2019
+  - course: PhD in Signal and Image Processing
+    institution: University of Rennes 1
     year: 2008
+  - course: MSc in Statistics
+    institution: University of Rennes 1
+    year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
