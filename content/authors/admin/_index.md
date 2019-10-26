@@ -19,7 +19,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
 - Image Reconstruction
@@ -69,8 +69,18 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
+
+#I am a medical imaging scientist with a background in mathematics. My work is oriented towards methodologies and algorithm, and their implementation for patient data. In this regard, I am at the interface between theoretical and translational research. 
 ---
 
+I am an Associate Professor at University of Western Brittany, and part of the LaTIM (INSERM U1101), where I coordinate the Reconstruction research group.
+
+My research work is focused on *tomographic reconstruction* in medical imaging, with an emphasis on PET/CT with motion compensation. I am mostly interested in model-based iterative reconstruction techniques.
+
+My work is oriented towards mathematical methods, and their implementation for the clinic. In this regard, I am at the interface between theoretical and translational research.
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+
+
+
+
