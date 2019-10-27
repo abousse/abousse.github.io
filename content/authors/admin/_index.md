@@ -16,7 +16,7 @@ role: Associate Professor
 organizations:
 - name: LaTIM, INSERM UMR 1101
 - name: University of Western Brittany
-url: ""
+url: "latim.univ-brest.fr"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -34,7 +34,7 @@ education:
   - course: PhD in Signal and Image Processing
     institution: University of Rennes 1
     year: 2008
-  - course: MSc in Statistics
+  - course: MSc of Mathematics
     institution: University of Rennes 1
     year: 2005
 
@@ -62,7 +62,7 @@ social:
   link: files/CVabousse.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "[firstname] dot [lastname] at univ-brest.fr"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  

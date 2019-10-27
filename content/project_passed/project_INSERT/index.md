@@ -1,4 +1,4 @@
 ---
-title: "SPECT/MRI INSERT -- FP7-HEALTH Program 305311 (2013)"
+title: "SPECT/MRI INSERT -- FP7-HEALTH Program 305311"
 ---
 

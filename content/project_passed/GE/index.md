@@ -1,4 +1,5 @@
 ---
-title: "Motion-Compensated PET/CT -- GE Healthcare (2016)"
+title: "Motion-Compensated PET/CT -- GE Healthcare"
+year: 2016
 ---
 
