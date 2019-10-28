@@ -12,11 +12,23 @@ superuser: true
 # Role/position
 role: Associate Professor
 
-# Organizations/Affiliations
+
 organizations:
 - name: LaTIM, INSERM UMR 1101
+  url: "http://latim.univ-brest.fr"
+# - name: Reconstruction Group
+#  url: "http://latim.univ-brest.fr/reconstruction"
 - name: University of Western Brittany
-url: "latim.univ-brest.fr"
+  url: "https://www.univ-brest.fr/"
+
+
+
+# Organizations/Affiliations
+# organizations:
+# - name: LaTIM, INSERM UMR 1101
+# - name: Team Action, Reconstruction Group
+# - name: University of Western Brittany
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -73,11 +85,11 @@ user_groups:
 #I am a medical imaging scientist with a background in mathematics. My work is oriented towards methodologies and algorithm, and their implementation for patient data. In this regard, I am at the interface between theoretical and translational research. 
 ---
 
-I am an Associate Professor at University of Western Brittany, and part of the LaTIM (INSERM U1101), where I coordinate the Reconstruction research group.
+I am an Associate Professor at University of Western Brittany, and part of the LaTIM (INSERM U1101), where I coordinate the [Reconstruction research group](http://latim.univ-brest.fr/reconstruction).
 
-My research work is focused on *tomographic reconstruction* in medical imaging, with an emphasis on PET/CT with motion compensation. I am mostly interested in model-based iterative reconstruction techniques.
+My research work is focused on **reconstruction in medical imaging**, with an emphasis on PET/CT with motion compensation. I am mostly interested in model-based iterative reconstruction techniques, and their implementation for the clinic. In this regard, I am at the interface between theoretical and translational research.
 
-My work is oriented towards mathematical methods, and their implementation for the clinic. In this regard, I am at the interface between theoretical and translational research.
+
 
 
 
