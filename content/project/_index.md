@@ -12,6 +12,3 @@ header:
   caption: ""
   image: ""
 ---
-ggg
-gggg
-gggg
