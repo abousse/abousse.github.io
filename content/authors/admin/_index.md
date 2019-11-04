@@ -87,7 +87,9 @@ user_groups:
 
 I am an Associate Professor at University of Western Brittany, and part of the LaTIM (INSERM U1101), where I coordinate the [Reconstruction research group](http://latim.univ-brest.fr/reconstruction).
 
-My research work is focused on **reconstruction in medical imaging**, with an emphasis on PET/CT with motion compensation. I am mostly interested in model-based iterative reconstruction techniques, and their implementation for the clinic. In this regard, I am at the interface between theoretical and translational research.
+My research work is focused on **medical image reconstuction**, with an emphasis on motion-compensated PET/CT. I am mostly interested in model-based iterative reconstruction techniques, and their implementation for the clinic. In this regard, I am at the interface between theoretical and translational research.
+
+I obtained my PhD at [University of Rennes 1](https://www.univ-rennes1.fr/), as part of the [LTSI, UMR 1099](https://www.univ-rennes1.fr/), in collaboration with [Nanjing Southeast University](https://www.seu.edu.cn/). Following that, I did a postdoc at [University College London](https://www.ucl.ac.uk/), within the [Institute of Nuclear Medicine](https://www.ucl.ac.uk/nuclear-medicine/). 
 
 
 
