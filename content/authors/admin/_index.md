@@ -85,7 +85,7 @@ user_groups:
 #I am a medical imaging scientist with a background in mathematics. My work is oriented towards methodologies and algorithm, and their implementation for patient data. In this regard, I am at the interface between theoretical and translational research. 
 ---
 
-I am an Associate Professor at University of Western Brittany, and part of the LaTIM (INSERM U1101), where I coordinate the [Reconstruction research group](http://latim.univ-brest.fr/reconstruction).
+I am an Associate Professor at University of Western Brittany, and part of the [LaTIM, UMR 1101](http://latim.univ-brest.fr), where I coordinate the [Reconstruction research group](http://latim.univ-brest.fr/reconstruction).
 
 My research work is focused on **medical image reconstuction**, with an emphasis on motion-compensated PET/CT. I am mostly interested in model-based iterative reconstruction techniques, and their implementation for the clinic. In this regard, I am at the interface between theoretical and translational research.
 
