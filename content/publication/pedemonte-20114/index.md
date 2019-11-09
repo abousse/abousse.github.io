@@ -1,7 +1,7 @@
 ---
 title: "4-D generative model for PET/MRI reconstruction"
 date: 2011-01-01
-publishDate: 2019-10-28T14:45:52.656528Z
+publishDate: 2019-11-09T11:48:44.535595Z
 authors: ["S. Pedemonte", "A. Bousse", "B. F. Hutton", "S. Arridge", "S. Ourselin"]
 publication_types: ["2"]
 abstract: ""

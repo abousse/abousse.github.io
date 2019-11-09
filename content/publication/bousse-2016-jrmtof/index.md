@@ -1,7 +1,7 @@
 ---
 title: "Maximum-Likelihood Joint Image Reconstruction and Motion Estimation with Misaligned Attenuation in TOF-PET/CT"
 date: 2016-01-01
-publishDate: 2019-10-28T14:45:52.651150Z
+publishDate: 2019-11-09T11:48:44.530016Z
 authors: ["A. Bousse", "O. Bertolli", "D. Atkinson", "S. Arridge", "S. Ourselin", "B. F. Hutton", "K. Thielemans"]
 publication_types: ["2"]
 abstract: ""

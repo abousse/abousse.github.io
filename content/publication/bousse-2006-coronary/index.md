@@ -1,7 +1,7 @@
 ---
 title: "Coronary extraction and characterization in multi-detector computed tomography"
 date: 2006-01-01
-publishDate: 2019-10-28T14:45:52.655754Z
+publishDate: 2019-11-09T11:48:44.534763Z
 authors: ["A. Bousse", "C. Boldak", "C. Toumoulin", "G. Yang", "S. Laguitton", "D. Boulmier"]
 publication_types: ["2"]
 abstract: ""

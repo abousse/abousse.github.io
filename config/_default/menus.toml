@@ -14,13 +14,27 @@
 #  weight = 20
 
 [[main]]
+  name = "Academic Career"
+  url = "#experience"
+  weight = 20
+
+[[main]]
   name = "Projects"
   url = "#projects"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  # url = "#featured"
+  name = "Passed Projects"
+  url = "#projects_passed"
+  weight = 31  
+
+[[main]]
+  name = "Featured Publications"
+  url = "#featured"
+  weight = 32
+
+[[main]]
+  name = "Complete Publication List"
   url = "#publications"
   weight = 40
 

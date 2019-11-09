@@ -1,7 +1,7 @@
 ---
 title: "Joint Parametric Reconstruction and Motion Correction Framework for Dynamic PET Data"
 date: 2014-01-01
-publishDate: 2019-10-28T14:45:52.656141Z
+publishDate: 2019-11-09T11:48:44.535180Z
 authors: ["J. Jiao", "A. Bousse", "K. Thielemans", "P. Markiewicz", "N. Burgos", "D. Atkinson", "S. Arridge", "B. F. Hutton", "S. Ourselin"]
 publication_types: ["2"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "A Bayesian MAP-EM algorithm for PET image reconstruction using wavelet transform"
 date: 2007-01-01
-publishDate: 2019-10-28T14:45:52.654563Z
+publishDate: 2019-11-09T11:48:44.532666Z
 authors: ["J. Zhou", "J.-L. Coatrieux", "A. Bousse", "H. Shu", "L. Luo"]
 publication_types: ["2"]
 abstract: ""

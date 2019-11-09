@@ -1,7 +1,7 @@
 ---
 title: "Collimator design for a brain SPECT/MRI insert"
 date: 2015-01-01
-publishDate: 2019-10-28T14:45:52.653560Z
+publishDate: 2019-11-09T11:48:44.531803Z
 authors: ["D. Salvado", "K. Erlandsson", "A. Bousse", "M. Occipinti", "C. Fiorini", "B. F. Hutton", " others"]
 publication_types: ["2"]
 abstract: ""
