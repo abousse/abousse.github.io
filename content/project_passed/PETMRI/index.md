@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "PET/MRI Reconstruction – EP/K005278/1"
+title: "Exploiting the Unique Quantitative Capabilities Offered by Simultaneous PET/MRI – EP/K005278/1"
 summary: ""
 authors: [B. F. Hutton, S. Ourselin, S. R. Arridge, S. Punwani, A. Groves, D. Atkinson]
 tags: []

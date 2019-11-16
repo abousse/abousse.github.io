@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "PET & SPECT Reconstruction – EP/G026483/1"
+title: "Optimising Reconstruction to Accommodate Complex System Models for Emission Tomography – EP/G026483/1"
 summary: ""
 authors: [B. F. Hutton, S. Ourselin, S. R. Arridge]
 tags: []
