@@ -8,7 +8,7 @@ abstract: ""
 featured: false
 publication: "*IEEE Transactions on Nuclear Science*"
 tags: ["article"]
-url_pdf: "https://doi.org/ 10.1109/TNS.2015.2450017"
+url_pdf: "https://doi.org/10.1109/TNS.2015.2450017"
 doi: "10.1109/TNS.2015.2450017"
 ---
 

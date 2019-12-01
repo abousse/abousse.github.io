@@ -8,6 +8,7 @@ abstract: ""
 featured: false
 publication: "*EJNMMI physics*"
 tags: ["abstract"]
+url_pdf: "https://doi.org/10.1186/2197-7364-1-S1-A21"
 doi: "10.1186/2197-7364-1-S1-A21"
 ---
 
