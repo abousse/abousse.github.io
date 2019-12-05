@@ -6,7 +6,7 @@ authors: ["J. Jiao", "A. Bousse", "K. Thielemans", "P. Markiewicz", "N. Burgos",
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Med. Image Comput. Comput. Assist. Interv. Conf. Rec.*"
+publication: "*Lecture Notes in Computer Science*"
 tags: ["article"]
 url_pdf: "https://doi.org/10.1007/978-3-319-10404-1_15"
 doi: "10.1007/978-3-319-10404-1_15"

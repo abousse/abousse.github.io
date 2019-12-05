@@ -6,7 +6,7 @@ authors: ["S. Pedemonte", "A. Bousse", "B. F. Hutton", "S. Arridge", "S. Ourseli
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Med. Image Comput. Comput. Assist. Interv. Conf. Rec.*"
+publication: "*Lecture Notes in Computer Science*"
 tags: ["article"]
 url_pdf: "https://doi.org/10.1007/978-3-642-23623-5_73"
 doi: "10.1007/978-3-642-23623-5_73"
