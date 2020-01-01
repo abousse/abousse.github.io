@@ -1,6 +1,6 @@
 ---
 title: "Benefits of Using a Spatially-variant Penalty Strength with Anatomical Priors in PET Reconstruction"
-date: 2019-01-01
+date: 2020-01-01
 publishDate: 2019-11-09T11:48:44.529070Z
 authors: ["Y.-J. Tsai", "G. Schramm", "S. Ahn", "A. Bousse", "S. Arridge", "J. Nuyts", "B. F. Hutton", "C. W. Stearns", "K. Thielemans"]
 publication_types: ["2"]
