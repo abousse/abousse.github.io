@@ -6,7 +6,7 @@ authors: ["A. Bousse", "M. Courdurier", "É. C. Émond", "K. Thielemans", "B. F.
 publication_types: ["2"]
 abstract: ""
 featured: yes
-publication: "*IEEE Transactions on Medical Imaging (preprint)*"
+publication: "*IEEE Transactions on Medical Imaging*"
 tags: ["article"]
 url_pdf: "https://hal.archives-ouvertes.fr/hal-02144923"
 doi: "10.1109/TMI.2019.2920109"

@@ -6,7 +6,7 @@ authors: ["Y.-J. Tsai", "G. Schramm", "S. Ahn", "A. Bousse", "S. Arridge", "J. N
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*IEEE Transactions on Medical Imaging (preprint)*"
+publication: "*IEEE Transactions on Medical Imaging*"
 tags: ["article"]
 doi: "10.1109/TMI.2019.2913889"
 ---
