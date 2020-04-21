@@ -8,7 +8,7 @@ abstract: ""
 featured: false
 publication: "*Physics in Medicine & Biology*"
 tags: ["article"]
-url_pdf: "https://hal.archives-ouvertes.fr/hal-02395620v2"
+url_pdf: "https://ieeexplore.ieee.org/document/9024002"
 doi: "10.1088/1361-6560/ab7a6f"
 ---
 
