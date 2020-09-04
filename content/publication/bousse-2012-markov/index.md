@@ -1,13 +1,44 @@
 ---
-title: "Markov random field and Gaussian mixture for segmented MRI-based partial volume correction in PET"
-date: 2012-01-01
-publishDate: 2019-11-09T11:48:44.533507Z
-authors: ["A. Bousse", "S. Pedemonte", "B. A. Thomas", "K. Erlandsson", "S. Ourselin", "S. Arridge", "B. F. Hutton"]
-publication_types: ["2"]
-abstract: ""
-featured: yes
-publication: "*Physics in Medicine & Biology*"
-tags: ["article"]
-doi: "10.1088/0031-9155/57/20/6681"
----
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
+title: Markov random field and Gaussian mixture for segmented MRI-based partial volume
+  correction in PET
+subtitle: ''
+summary: ''
+authors:
+- A. Bousse
+- S. Pedemonte
+- B. A. Thomas
+- K. Erlandsson
+- S. Ourselin
+- S. Arridge
+- B. F. Hutton
+tags:
+- '"article"'
+categories: []
+date: '2012-01-01'
+lastmod: 2020-09-04T17:19:37+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2020-09-04T15:19:37.498205Z'
+publication_types:
+- 2
+abstract: ''
+publication: '*Physics in Medicine & Biology*'
+doi: 10.1088/0031-9155/57/20/6681
+---

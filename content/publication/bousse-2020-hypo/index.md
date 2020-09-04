@@ -1,26 +1,24 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Framework for the construction of a Monte Carlo simulated brain PET-MR image
-  database
+title: 'PET Reconstruction with non-Negativity Constraints in Projection Space: Optimization
+  Through Hypo-Convergence'
 subtitle: ''
 summary: ''
 authors:
-- B. A. Thomas
-- K. Erlandsson
-- I. Drobnjak
-- S. Pedemonte
-- K. Vunckx
 - A. Bousse
-- A. Reilhac-Laborde
-- S. Ourselin
+- M. Courdurier
+- É. C. Émond
+- K. Thielemans
 - B. F. Hutton
+- P. Irarrazaval
+- D. Visvikis
 tags:
 - '"article"'
 categories: []
-date: '2014-01-01'
+date: '2020-01-01'
 lastmod: 2020-09-04T17:19:37+02:00
-featured: false
+featured: yes
 draft: false
 
 # Featured image
@@ -37,10 +35,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-04T15:19:37.770280Z'
+publishDate: '2020-09-04T15:19:36.965467Z'
 publication_types:
 - 2
 abstract: ''
-publication: '*Nuclear Instruments and Methods in Physics Research Section A*'
-doi: 10.1016/j.nima.2013.08.063
+publication: '*IEEE Transactions on Medical Imaging*'
+url_pdf: https://hal.archives-ouvertes.fr/hal-02144923
+doi: 10.1109/TMI.2019.2920109
 ---

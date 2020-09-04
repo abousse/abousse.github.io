@@ -1,26 +1,22 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Framework for the construction of a Monte Carlo simulated brain PET-MR image
-  database
+title: Improved PET/CT Respiratory Motion Compensation by Incorporating Changes in
+  Lung Density
 subtitle: ''
 summary: ''
 authors:
-- B. A. Thomas
-- K. Erlandsson
-- I. Drobnjak
-- S. Pedemonte
-- K. Vunckx
+- É. C. Émond
 - A. Bousse
-- A. Reilhac-Laborde
-- S. Ourselin
+- L. Brusaferri
 - B. F. Hutton
+- K. Thielemans
 tags:
 - '"article"'
 categories: []
-date: '2014-01-01'
-lastmod: 2020-09-04T17:19:37+02:00
-featured: false
+date: '2020-01-01'
+lastmod: 2020-09-04T17:19:36+02:00
+featured: yes
 draft: false
 
 # Featured image
@@ -37,10 +33,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-04T15:19:37.770280Z'
+publishDate: '2020-09-04T15:19:36.832050Z'
 publication_types:
 - 2
 abstract: ''
-publication: '*Nuclear Instruments and Methods in Physics Research Section A*'
-doi: 10.1016/j.nima.2013.08.063
+publication: '*IEEE Transactions on Radiation and Plasma Medical Sciences*'
+url_pdf: https://ieeexplore.ieee.org/document/9112356
+doi: 10.1109/TRPMS.2020.3001094
 ---

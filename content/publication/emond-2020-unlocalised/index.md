@@ -1,14 +1,43 @@
 ---
-title: "Effect of Attenuation Mismatches in Time of Flight PET Reconstruction"
-date: 2020-01-01
-publishDate: 2020-04-13T15:42:18.917899Z
-authors: ["É. C. Émond", "A. Bousse", "J. P. Maria~Machado", "A. M. Groves", "B. F. Hutton", "K. Thielemans"]
-publication_types: ["2"]
-abstract: ""
-featured: false
-publication: "*Physics in Medicine & Biology*"
-tags: ["article"]
-url_pdf: "https://ieeexplore.ieee.org/document/9024002"
-doi: "10.1088/1361-6560/ab7a6f"
----
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
+title: Effect of Attenuation Mismatches in Time of Flight PET Reconstruction
+subtitle: ''
+summary: ''
+authors:
+- É. C. Émond
+- A. Bousse
+- J. P. Maria~Machado
+- A. M. Groves
+- B. F. Hutton
+- K. Thielemans
+tags:
+- '"article"'
+categories: []
+date: '2020-01-01'
+lastmod: 2020-09-04T17:19:36+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2020-09-04T15:19:36.922370Z'
+publication_types:
+- 2
+abstract: ''
+publication: '*Physics in Medicine & Biology*'
+url_pdf: https://iopscience.iop.org/article/10.1088/1361-6560/ab7a6f
+doi: 10.1088/1361-6560/ab7a6f
+---

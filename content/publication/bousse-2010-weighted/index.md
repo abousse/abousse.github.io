@@ -1,13 +1,42 @@
 ---
-title: "Weighted MRI-Based Bowsher priors for SPECT brain image reconstruction"
-date: 2010-01-01
-publishDate: 2019-10-28T14:46:00.717107Z
-authors: ["A. Bousse", "S. Pedemonte", "D. Kazantsev", "S. Ourselin", "S. Arridge", "B. F. Hutton"]
-publication_types: ["1"]
-abstract: ""
-featured: false
-publication: "*IEEE Nucl. Sci. Symp. Med. Imag. Conf. Rec.*"
-tags: ["poster"]
-doi: "10.1109/NSSMIC.2010.5874462"
----
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
+title: Weighted MRI-Based Bowsher priors for SPECT brain image reconstruction
+subtitle: ''
+summary: ''
+authors:
+- A. Bousse
+- S. Pedemonte
+- D. Kazantsev
+- S. Ourselin
+- S. Arridge
+- B. F. Hutton
+tags:
+- '"poster"'
+categories: []
+date: '2010-01-01'
+lastmod: 2020-09-04T17:21:16+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2020-09-04T15:21:16.159246Z'
+publication_types:
+- 1
+abstract: ''
+publication: '*IEEE Nucl. Sci. Symp. Med. Imag. Conf. Rec.*'
+doi: 10.1109/NSSMIC.2010.5874462
+---

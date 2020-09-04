@@ -1,14 +1,47 @@
 ---
-title: "What approach to brain partial volume correction is best for PET/MRI?"
-date: 2013-01-01
-publishDate: 2019-11-09T11:48:44.534337Z
-authors: ["B. F. Hutton", "B. A. Thomas", "K. Erlandsson", "A. Bousse", "A. Reilhac-Laborde", "D. Kazantsev", "S. Pedemonte", "K. Vunckx", "S. Arridge", "S. Ourselin"]
-publication_types: ["2"]
-abstract: ""
-featured: false
-publication: "*Nuclear Instruments and Methods in Physics Research Section A*"
-tags: ["article"]
-url_pdf: "https://doi.org/10.1016/j.nima.2012.07.059"
-doi: "10.1016/j.nima.2012.07.059"
----
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
+title: What approach to brain partial volume correction is best for PET/MRI?
+subtitle: ''
+summary: ''
+authors:
+- B. F. Hutton
+- B. A. Thomas
+- K. Erlandsson
+- A. Bousse
+- A. Reilhac-Laborde
+- D. Kazantsev
+- S. Pedemonte
+- K. Vunckx
+- S. Arridge
+- S. Ourselin
+tags:
+- '"article"'
+categories: []
+date: '2013-01-01'
+lastmod: 2020-09-04T17:19:37+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2020-09-04T15:19:37.594700Z'
+publication_types:
+- 2
+abstract: ''
+publication: '*Nuclear Instruments and Methods in Physics Research Section A*'
+url_pdf: https://doi.org/10.1016/j.nima.2012.07.059
+doi: 10.1016/j.nima.2012.07.059
+---

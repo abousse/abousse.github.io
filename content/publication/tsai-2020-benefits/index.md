@@ -1,26 +1,26 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Framework for the construction of a Monte Carlo simulated brain PET-MR image
-  database
+title: Benefits of Using a Spatially-variant Penalty Strength with Anatomical Priors
+  in PET Reconstruction
 subtitle: ''
 summary: ''
 authors:
-- B. A. Thomas
-- K. Erlandsson
-- I. Drobnjak
-- S. Pedemonte
-- K. Vunckx
+- Y.-J. Tsai
+- G. Schramm
+- S. Ahn
 - A. Bousse
-- A. Reilhac-Laborde
-- S. Ourselin
+- S. Arridge
+- J. Nuyts
 - B. F. Hutton
+- C. W. Stearns
+- K. Thielemans
 tags:
 - '"article"'
 categories: []
-date: '2014-01-01'
+date: '2020-01-01'
 lastmod: 2020-09-04T17:19:37+02:00
-featured: false
+featured: yes
 draft: false
 
 # Featured image
@@ -37,10 +37,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-04T15:19:37.770280Z'
+publishDate: '2020-09-04T15:19:37.008929Z'
 publication_types:
 - 2
 abstract: ''
-publication: '*Nuclear Instruments and Methods in Physics Research Section A*'
-doi: 10.1016/j.nima.2013.08.063
+publication: '*IEEE Transactions on Medical Imaging*'
+doi: 10.1109/TMI.2019.2913889
 ---
