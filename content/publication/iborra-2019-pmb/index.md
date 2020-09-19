@@ -7,7 +7,7 @@ summary: ''
 authors:
 - A. Iborra
 - A. J. González
-- A. Gonz\ĺez-Montoro
+- A. González-Montoro
 - A. Bousse
 - D. Visvikis
 tags:
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-04T15:19:37.051845Z'
+publishDate: '2020-09-19T07:32:20.713519Z'
 publication_types:
 - 2
 abstract: ''

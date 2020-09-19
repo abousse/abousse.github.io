@@ -30,11 +30,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-04T15:21:17.890260Z'
+publishDate: '2020-09-19T07:35:42.132897Z'
 publication_types:
 - 1
 abstract: ''
-publication: '*Fully 3D*'
+publication: '*International Conference on Fully Three-Dimensional Image Reconstruction
+  in Radiology and Nuclear Medicine*'
 url_pdf: http://onlinelibrary.fully3d.org/papers/2017/Fully3D.2017-11-3202020.pdf
 doi: 10.12059/Fully3D.2017-11-3202020
 ---
