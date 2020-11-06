@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Joint Parametric Reconstruction and Motion Correction Framework for Dynamic
-  PET Data
+title: Joint parametric reconstruction and motion correction framework for dynamic
+  PET data
 subtitle: ''
 summary: ''
 authors:
@@ -16,10 +16,10 @@ authors:
 - B. F. Hutton
 - S. Ourselin
 tags:
-- '"article"'
+- '"oral"'
 categories: []
 date: '2014-01-01'
-lastmod: 2020-09-04T17:19:37+02:00
+lastmod: 2020-11-06T14:16:53+01:00
 featured: false
 draft: false
 
@@ -37,11 +37,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-19T07:32:21.337502Z'
+publishDate: '2020-11-06T13:16:53.543572Z'
 publication_types:
-- 2
+- 1
 abstract: ''
-publication: '*Lecture Notes in Computer Science*'
+publication: '*International Conference on Medical Image Computing and Computer-Assisted
+  Intervention*'
 url_pdf: https://doi.org/10.1007/978-3-319-10404-1_15
 doi: 10.1007/978-3-319-10404-1_15
 ---

@@ -1,21 +1,24 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Coronary extraction and characterization in multi-detector computed tomography
+title: Normalisation factor estimation in non-TOF 3D PET from multiple-energy window
+  data
 subtitle: ''
 summary: ''
 authors:
+- L. Brusaferri
+- E. C. Émond
 - A. Bousse
-- C. Boldak
-- C. Toumoulin
-- G. Yang
-- S. Laguitton
-- D. Boulmier
+- R. Twyman
+- D. Atkinson
+- B. F. Hutton
+- S. Arridge
+- K. Thielemans
 tags:
-- '"article"'
+- '"poster"'
 categories: []
-date: '2006-01-01'
-lastmod: 2020-09-04T17:19:37+02:00
+date: '2020-01-01'
+lastmod: 2020-11-06T14:16:52+01:00
 featured: false
 draft: false
 
@@ -33,11 +36,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-04T15:19:37.639064Z'
+publishDate: '2020-11-06T13:16:52.506940Z'
 publication_types:
-- 2
+- 1
 abstract: ''
-publication: '*ITBM-RBM*'
-url_pdf: https://doi.org/10.1016/j.rbmret.2007.01.001
-doi: 10.1016/j.rbmret.2007.01.001
+publication: '*IEEE Nucl. Sci. Symp. Med. Imag. Conf. Rec.*'
 ---
