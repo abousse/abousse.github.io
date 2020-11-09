@@ -42,7 +42,7 @@ slides: ""
 JRM_lite is a light version of Joint Reconstruction/Motion (JRM) toolbox developed for [1], [2]
 and to some extend [3]. It includes basic tools for PET/CT and PET/MRI motion estimation and compensation.
 
-The code is available on Gitlab [here](https://gitlab.com/abousse/jrm_lite).
+The code is available on [Gitlab](https://gitlab.com/abousse/jrm_lite).
 
 This code can be used by anyone for research purpose provided our work is acknowledged.
 

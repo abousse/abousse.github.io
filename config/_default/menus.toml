@@ -24,9 +24,10 @@
   weight = 30
 
 [[main]]
-  name = "Passed Projects"
-  url = "#projects_passed"
-  weight = 31  
+  name = "Softwares"
+  url = "#softwares"
+  weight = 31
+
 
 [[main]]
   name = "Featured Publications"
