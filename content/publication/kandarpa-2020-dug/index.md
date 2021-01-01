@@ -11,10 +11,9 @@ authors:
 - D. Benoit
 - D. Visvikis
 tags:
-- '"article"'
 categories: []
-date: '2020-01-01'
-lastmod: 2020-11-06T14:16:55+01:00
+date: '2021-01-01'
+lastmod: 2021-01-01T17:48:37+01:00
 featured: true
 draft: false
 
@@ -32,10 +31,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-06T13:16:55.893849Z'
+publishDate: '2021-01-01T16:48:37.311873Z'
 publication_types:
 - 2
 abstract: ''
 publication: '*IEEE Transactions on Radiation and Plasma Medical Sciences*'
+url_pdf: https://arxiv.org/abs/2012.02000
 doi: 10.1109/TRPMS.2020.3033172
 ---
