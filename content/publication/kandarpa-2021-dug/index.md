@@ -11,9 +11,10 @@ authors:
 - D. Benoit
 - D. Visvikis
 tags:
+- '"article"'
 categories: []
 date: '2021-01-01'
-lastmod: 2021-01-02T10:30:13+01:00
+lastmod: 2021-01-02T17:15:36+01:00
 featured: true
 draft: false
 
@@ -31,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-02T09:30:13.947573Z'
+publishDate: '2021-01-02T16:15:36.534060Z'
 publication_types:
 - 2
 abstract: ''
