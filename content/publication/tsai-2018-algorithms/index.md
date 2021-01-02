@@ -14,7 +14,6 @@ authors:
 - B. F. Hutton
 - K. Thielemans
 tags:
-- '"oral"'
 categories: []
 date: '2018-01-01'
 lastmod: 2020-11-06T14:16:52+01:00
