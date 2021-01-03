@@ -38,7 +38,7 @@ interests:
 - Image reconstruction
 - Motion estimation
 - Numerical optimisation
-- Machine-learning
+- Machine learning
 
 education:
   courses:
