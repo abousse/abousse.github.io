@@ -48,7 +48,7 @@ education:
   - course: PhD in Signal and Image Processing
     institution: University of Rennes 1 & Nanjing Southeast University
     year: 2008
-  - course: MSc of Mathematics
+  - course: Master of Mathematics
     institution: University of Rennes 1
     year: 2005
 
