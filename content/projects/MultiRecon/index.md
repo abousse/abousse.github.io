@@ -39,7 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-The Multi recon project is funded by the French ANR under the code name ANR-20-CE45-0020, with a 498,350.88€ grant. The project will start on 01/01/2021, and will involve the following partners:
+The MultiRecon project is funded by the French ANR under the code name ANR-20-CE45-0020, with a 498,350.88€ grant. The project will start on 01/01/2021, and will involve the following partners:
 - LaTIM U1101, Brest, France
 - CREATIS, Lyon, France
 - CEA, Brest, France
