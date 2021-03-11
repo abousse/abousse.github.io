@@ -1,26 +1,27 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Joint parametric reconstruction and motion correction framework for dynamic
-  PET data
+title: Detection Efficiency Modelling and Joint Activity and Attenuation Reconstruction
+  in non-TOF 3D PET from Multiple-Energy Window Data
 subtitle: ''
 summary: ''
 authors:
-- J. Jiao
+- L. Brusaferri
+- É. C Émond
 - A. Bousse
-- K. Thielemans
-- P. Markiewicz
-- N. Burgos
+- R. Twyman
+- A. C. Whitehead
 - D. Atkinson
-- S. Arridge
-- B. F. Hutton
 - S. Ourselin
+- B. F. Hutton
+- S. Arridge
+- K. Thielemans
 tags:
-- '"oral"'
+- '"article"'
 categories: []
-date: '2014-01-01'
-lastmod: 2021-01-02T17:16:05+01:00
-featured: false
+date: '2021-01-01'
+lastmod: 2021-03-11T19:25:04+01:00
+featured: true
 draft: false
 
 # Featured image
@@ -37,12 +38,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-02T16:16:05.443083Z'
+publishDate: '2021-03-11T18:25:04.675292Z'
 publication_types:
-- 1
+- 2
 abstract: ''
-publication: '*International Conference on Medical Image Computing and Computer-Assisted
-  Intervention*'
-url_pdf: https://doi.org/10.1007/978-3-319-10404-1_15
-doi: 10.1007/978-3-319-10404-1_15
+publication: '*IEEE Transactions on Radiation and Plasma Medical Sciences*'
+doi: 10.1109/TRPMS.2021.3064239
 ---

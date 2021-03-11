@@ -1,20 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 4-D generative model for PET/MRI reconstruction
+title: Deep Learning based scatter correction for PET imaging
 subtitle: ''
 summary: ''
 authors:
-- S. Pedemonte
+- B. Laurent
+- T. Merlin
 - A. Bousse
-- B. F. Hutton
-- S. Arridge
-- S. Ourselin
+- D. Visvikis
 tags:
-- '"poster"'
+- '"oral"'
 categories: []
-date: '2011-01-01'
-lastmod: 2021-01-02T17:16:05+01:00
+date: '2020-01-01'
+lastmod: 2021-03-11T19:25:13+01:00
 featured: false
 draft: false
 
@@ -32,12 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-02T16:16:05.488915Z'
+publishDate: '2021-03-11T18:25:13.546407Z'
 publication_types:
 - 1
 abstract: ''
-publication: '*International Conference on Medical Image Computing and Computer-Assisted
-  Intervention*'
-url_pdf: https://doi.org/10.1007/978-3-642-23623-5_73
-doi: 10.1007/978-3-642-23623-5_73
+publication: '*IEEE Nucl. Sci. Symp. Med. Imag. Conf. Rec.*'
 ---
