@@ -34,7 +34,7 @@ date_format = "January 2, 2006"
   company = "LaTIM, UMR 1101, University of Western Brittany"
   company_url = ""
   location = "Brest, France"
-  date_start = "2018-09-01"
+  date_start = "2021-09-30"
   date_end = ""
   description = """
   Coordinator of the Image Reconstruction group
