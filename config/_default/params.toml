@@ -85,36 +85,19 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = ""
-phone = ""
+email = "alexandre.bousse@univ-brest.fr"
+phone = "+33 (0)298 018 199"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "FR"}
+address = {street = "22 avenue Camille Desmoulins, Bâtiment IBRBS", city = "Brest", region = "", postcode = "29238", country = "France", country_code = "FR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "48.39574", longitude = "-4.48766"}
 
-# Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
 
-# Office hours
-# A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
 
-# Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
-
-# Contact links
-#   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  ]
 
 ############################
 ## Social
@@ -136,9 +119,10 @@ date_format = "Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
 time_format = "15:04"
 
-# List delimiter (separates parts of an address)
-# Popular separators are ", " (comma), "<br>" (new line), " " (space)
-list_delimiter = ", "
+# new in 4.6
+address_format = "fr"
+
+
 
 ############################
 ## Advanced
@@ -147,8 +131,8 @@ list_delimiter = ", "
 # Get user avatars from Gravatar.com? (true/false)
 gravatar = false
 
-# Align the main menu to the right of the page? (true/false)
-menu_align_right = false
+# Main menu alignment (l = left, c = center, r = right) and logo options.
+main_menu = {align = "l", show_logo = true}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = false
@@ -188,6 +172,14 @@ plugins_js  = []
   post_view = 2
   publication_view = 2
   talk_view = 2
+
+
+
+[address_formats]
+  en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
+  en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
+  zh = {order = ['postcode', 'region', 'city', 'street'], delimiters = [' ', ' ', ' ', '']}
+  fr = {order = ['street', 'postcode', 'city', 'country'], delimiters = [', ', ' ', ', ']}
 
 ############################
 ## Comments
@@ -253,3 +245,5 @@ plugins_js  = []
 [marketing]
   google_analytics = ""
   google_tag_manager = ""
+
+
