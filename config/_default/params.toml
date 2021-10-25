@@ -120,7 +120,7 @@ date_format = "Jan 2, 2006"
 time_format = "15:04"
 
 # new in 4.6
-address_format = "fr"
+address_format = "fr-fr"
 
 
 
@@ -189,11 +189,8 @@ plugins_js  = []
 ## Comments
 ############################
 [comments]
-  # Comment provider:
-  #   0: Disabled
-  #   1: Disqus (https://disqus.com)
-  #   2: Commento (https://commento.io)
-  engine = 0
+
+  provider = ""
 
   # Which page types are commentable?
   commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
@@ -207,11 +204,8 @@ plugins_js  = []
 ## Search
 ############################
 [search]
-  # Search provider:
-  #   0: No search engine
-  #   1: Academic (built-in)
-  #   2: Algolia (https://www.algolia.com)
-  engine = 1
+
+  provider = "wowchemy"
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
@@ -225,21 +219,8 @@ plugins_js  = []
 ## Maps
 ############################
 [map]
-  # To show your address on a map in the Contact widget, enter your latitude and longitude (above)
-  # and choose a map provider below.
-  #
-  # To use Google Maps, set `engine` to 1 and enter your API key that can be obtained here:
-  #   https://developers.google.com/maps/documentation/javascript/get-api-key
-  # To use OpenStreetMap tiles, set `engine` to 2.
-  # To use OpenStreetMap on a high traffic site, set `engine` to 3 and enter your API key that can be obtained here:
-  #   https://www.mapbox.com/studio/account/tokens
-  #
-  # Map provider:
-  #   0: No map
-  #   1: Google Maps
-  #   2: OpenStreetMap (Mapnik)
-  #   3: OpenStreetMap (Mapbox)
-  engine = 2
+
+  provider = "mapnik"
   api_key = ""
   zoom = 15
 
@@ -250,4 +231,21 @@ plugins_js  = []
   google_analytics = ""
   google_tag_manager = ""
 
+
+
+
+
+
+
+
+# PLACE THIS NEW [CMS] CONFIG SECTION AT THE END OF THE FILE
+
+# Content Management System
+  [cms]
+   # Enable the admin panel. See https://wowchemy.com/docs/install/
+     netlify_cms = true
+
+  # Icon Pack Extensions
+   [icon.pack]
+     ai = true  # Enable the Academicons icon pack https://jpswalsh.github.io/academicons/
 
