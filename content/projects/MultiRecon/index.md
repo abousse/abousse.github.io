@@ -6,10 +6,10 @@ summary: ""
 authors: []
 tags: []
 categories: []
-date: 2021-01-10T15:22:47+01:00
+date: 2021-04-01
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://multirecon.github.io/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -39,15 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-The MultiRecon project is funded by the French ANR under the code name ANR-20-CE45-0020, with a 498,350.88€ grant. The project will start on 01/01/2021, and will involve the following partners:
-- LaTIM U1101, Brest, France
-- CREATIS, Lyon, France
-- CEA, Brest, France
-- CHU Poitiers, Poitiers, France
 
-The objectives of this project are:
-
-- Work package 1: to develop new multimodal convolutional dictionary learning (MCDL) techniques for multimodal image reconstruction;
-- Work Package 2: to further extend these methodologies for dynamic imaging: motion compensation and kinetic imaging in PET/CT and PET/MRI;
-- Work Package 3: to disseminate the new methodologies via the open source platform CASToR and to evaluate them on realistic data.
 
