@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Detection Efficiency Modelling and Joint Activity and Attenuation Reconstruction
   in non-TOF 3D PET from Multiple-Energy Window Data
@@ -20,8 +20,8 @@ tags:
 - '"article"'
 categories: []
 date: '2021-01-01'
-lastmod: 2021-03-11T19:25:04+01:00
-featured: true
+lastmod: 2021-10-26T18:48:29Z
+featured: false
 draft: false
 
 # Featured image
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-11T18:25:04.675292Z'
+publishDate: '2021-10-26T18:48:23.331502Z'
 publication_types:
 - 2
 abstract: ''

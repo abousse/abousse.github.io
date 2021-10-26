@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Joint Activity/Attenuation Reconstruction in SPECT Using Photopeak and Scatter
   Sinograms
@@ -16,7 +16,7 @@ tags:
 - '"oral"'
 categories: []
 date: '2016-01-01'
-lastmod: 2021-03-11T19:25:12+01:00
+lastmod: 2021-10-26T19:00:22Z
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-11T18:25:12.764667Z'
+publishDate: '2021-10-26T19:00:21.820216Z'
 publication_types:
 - 1
 abstract: ''

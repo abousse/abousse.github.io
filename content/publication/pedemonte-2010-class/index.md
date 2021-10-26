@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Class conditional entropic prior for MRI enhanced SPECT reconstruction
 subtitle: ''
@@ -17,7 +17,7 @@ tags:
 - '"poster"'
 categories: []
 date: '2010-01-01'
-lastmod: 2021-03-11T19:25:12+01:00
+lastmod: 2021-10-26T19:00:14Z
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-11T18:25:12.275657Z'
+publishDate: '2021-10-26T19:00:14.198011Z'
 publication_types:
 - 1
 abstract: ''

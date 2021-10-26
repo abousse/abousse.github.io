@@ -1,24 +1,24 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'PET Reconstruction with non-Negativity Constraints in Projection Space: Optimization
-  Through Hypo-Convergence'
+title: Respiratory Motion Correction in Dynamic PET with a Single Attenuation Map
 subtitle: ''
 summary: ''
 authors:
-- A. Bousse
-- M. Courdurier
-- É. C. Émond
-- K. Thielemans
-- B. F. Hutton
-- P. Irarrazaval
-- D. Visvikis
+- Elise C Emond
+- Alexandre Bousse
+- Maria Machado
+- Joanna Porter
+- Kjell Erlandsson
+- Ashley M Groves
+- Brian F Hutton
+- Kris Thielemans
 tags:
-- '"article"'
+- '"oral"'
 categories: []
-date: '2020-01-01'
-lastmod: 2021-03-11T19:25:05+01:00
-featured: true
+date: '2019-01-01'
+lastmod: 2021-10-26T19:00:31Z
+featured: false
 draft: false
 
 # Featured image
@@ -35,11 +35,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-11T18:25:05.150619Z'
+publishDate: '2021-10-26T19:00:30.514347Z'
 publication_types:
-- 2
+- 1
 abstract: ''
-publication: '*IEEE Transactions on Medical Imaging*'
-url_pdf: https://hal.archives-ouvertes.fr/hal-02144923
-doi: 10.1109/TMI.2019.2920109
+publication: '*IEEE Nucl. Sci. Symp. Med. Imag. Conf. Rec.*'
 ---

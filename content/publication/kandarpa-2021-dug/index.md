@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'DUG-RECON: A Framework for Direct Image Reconstruction using Convolutional
   Generative Networks'
@@ -14,8 +14,8 @@ tags:
 - '"article"'
 categories: []
 date: '2021-01-01'
-lastmod: 2021-03-11T19:25:04+01:00
-featured: true
+lastmod: 2021-10-26T18:48:48Z
+featured: false
 draft: false
 
 # Featured image
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-11T18:25:04.912882Z'
+publishDate: '2021-10-26T18:48:42.481955Z'
 publication_types:
 - 2
 abstract: ''

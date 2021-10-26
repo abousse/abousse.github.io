@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Robust anisotropic diffusion prior with anatomical regularization for 3D SPECT
   reconstruction
@@ -16,7 +16,7 @@ tags:
 - '"oral"'
 categories: []
 date: '2011-01-01'
-lastmod: 2021-03-11T19:25:14+01:00
+lastmod: 2021-10-26T19:00:49Z
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-11T18:25:14.302784Z'
+publishDate: '2021-10-26T19:00:49.269004Z'
 publication_types:
 - 1
 abstract: ''

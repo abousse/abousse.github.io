@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Direct Parametric Reconstruction with Joint Motion Estimation/Correction for
   Dynamic Brain PET Data
@@ -21,7 +21,7 @@ tags:
 - '"article"'
 categories: []
 date: '2017-01-01'
-lastmod: 2021-03-11T19:25:05+01:00
+lastmod: 2021-10-26T18:59:52Z
 featured: false
 draft: false
 
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-11T18:25:05.387156Z'
+publishDate: '2021-10-26T18:59:51.666498Z'
 publication_types:
 - 2
 abstract: ''

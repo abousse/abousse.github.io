@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Joint Activity, Attenuation and Scatter Estimation from Multiple Energy Window
   Data in non-TOF 3D PET: a preliminary study'
@@ -21,7 +21,7 @@ tags:
 - '"article"'
 categories: []
 date: '2020-01-01'
-lastmod: 2021-03-11T19:25:05+01:00
+lastmod: 2021-10-26T18:49:05Z
 featured: false
 draft: false
 
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-11T18:25:05.017443Z'
+publishDate: '2021-10-26T18:48:56.750010Z'
 publication_types:
 - 2
 abstract: ''

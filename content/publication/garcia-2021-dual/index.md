@@ -1,21 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Effect of Attenuation Mismatches in Time of Flight PET Reconstruction
+title: Dual-Energy CT Reconstruction with Convolutional Analysis Operator Learning
 subtitle: ''
 summary: ''
 authors:
-- É. C. Émond
+- S. L. Alfonso Garcia
+- A. Perelli
 - A. Bousse
-- J. P. Maria~Machado
-- A. M. Groves
-- B. F. Hutton
-- K. Thielemans
+- D. Visvikis
 tags:
-- '"article"'
+- '"poster"'
 categories: []
-date: '2020-01-01'
-lastmod: 2021-10-26T18:49:11Z
+date: '2021-01-01'
+lastmod: 2021-10-26T19:00:37Z
 featured: false
 draft: false
 
@@ -33,11 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-26T18:49:05.629133Z'
+publishDate: '2021-10-26T19:00:36.516413Z'
 publication_types:
-- 2
+- 1
 abstract: ''
-publication: '*Physics in Medicine & Biology*'
-url_pdf: https://iopscience.iop.org/article/10.1088/1361-6560/ab7a6f
-doi: 10.1088/1361-6560/ab7a6f
+publication: '*IEEE Nucl. Sci. Symp. Med. Imag. Conf. Rec.*'
 ---

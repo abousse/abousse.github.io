@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Direct joint motion estimation/image reconstruction in attenuation-corrected
   gated PET/CT without gated CT
@@ -17,7 +17,7 @@ tags:
 - '"oral"'
 categories: []
 date: '2015-01-01'
-lastmod: 2021-03-11T19:25:14+01:00
+lastmod: 2021-10-26T19:00:48Z
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-11T18:25:14.246574Z'
+publishDate: '2021-10-26T19:00:48.414411Z'
 publication_types:
 - 1
 abstract: ''

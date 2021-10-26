@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
 title: An anatomically driven anisotropic diffusion filtering method for 3D SPECT
   reconstruction
@@ -17,7 +17,7 @@ tags:
 - '"article"'
 categories: []
 date: '2012-01-01'
-lastmod: 2021-03-11T19:25:05+01:00
+lastmod: 2021-10-26T18:59:57Z
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-11T18:25:05.664840Z'
+publishDate: '2021-10-26T18:59:56.903278Z'
 publication_types:
 - 2
 abstract: ''

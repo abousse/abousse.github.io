@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Design optimization and evaluation of a human brain SPECT-MRI insert based
   on high-resolution detectors and slit-slat collimators
@@ -14,7 +14,7 @@ tags:
 - '"poster"'
 categories: []
 date: '2013-01-01'
-lastmod: 2021-03-11T19:25:12+01:00
+lastmod: 2021-10-26T19:00:19Z
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-11T18:25:12.585087Z'
+publishDate: '2021-10-26T19:00:19.309197Z'
 publication_types:
 - 1
 abstract: ''

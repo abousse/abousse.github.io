@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Edge preserving Bowsher prior with nonlocal weighting for 3D SPECT reconstruction
 subtitle: ''
@@ -15,7 +15,7 @@ tags:
 - '"poster"'
 categories: []
 date: '2011-01-01'
-lastmod: 2021-03-11T19:25:14+01:00
+lastmod: 2021-10-26T19:00:44Z
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-11T18:25:14.019300Z'
+publishDate: '2021-10-26T19:00:44.183096Z'
 publication_types:
 - 1
 abstract: ''

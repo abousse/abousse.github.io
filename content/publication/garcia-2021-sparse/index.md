@@ -1,21 +1,20 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Joint Reconstruction of Activity Image and Motion Estimation in Dynamic PET
-  from a Single Attenuation Map
+title: Sparse-View Joint Reconstruction and Material Decomposition for Dual-Energy
+  Cone-Beam Computed Tomography
 subtitle: ''
 summary: ''
 authors:
-- É. C. Émond
+- S. L. Alfonso Garcia
+- A. Perelli
 - A. Bousse
-- A. M. Groves
-- B. F. Hutton
-- K. Thielemans
+- D. Visvikis
 tags:
-- '"oral"'
+- '"poster"'
 categories: []
-date: '2019-01-01'
-lastmod: 2021-03-11T19:25:13+01:00
+date: '2021-01-01'
+lastmod: 2021-10-26T19:00:52Z
 featured: false
 draft: false
 
@@ -33,9 +32,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-11T18:25:13.324775Z'
+publishDate: '2021-10-26T19:00:51.899399Z'
 publication_types:
 - 1
 abstract: ''
-publication: '*IEEE Nucl. Sci. Symp. Med. Imag. Conf. Rec.*'
+publication: '*International Conference on Fully Three-Dimensional Image Reconstruction
+  in Radiology and Nuclear Medicine*'
+url_pdf: https://arxiv.org/abs/2110.04143
 ---

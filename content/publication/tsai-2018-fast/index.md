@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Fast Quasi-Newton Algorithms for Penalized Reconstruction in Emission Tomography
   and Further Improvements via Preconditioning
@@ -18,7 +18,7 @@ tags:
 - '"article"'
 categories: []
 date: '2018-01-01'
-lastmod: 2021-03-11T19:25:05+01:00
+lastmod: 2021-10-26T18:59:53Z
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-11T18:25:05.432022Z'
+publishDate: '2021-10-26T18:59:52.585953Z'
 publication_types:
 - 2
 abstract: ''

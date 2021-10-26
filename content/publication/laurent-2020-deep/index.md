@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Deep Learning based scatter correction for PET imaging
 subtitle: ''
@@ -13,7 +13,7 @@ tags:
 - '"oral"'
 categories: []
 date: '2020-01-01'
-lastmod: 2021-03-11T19:25:13+01:00
+lastmod: 2021-10-26T19:00:35Z
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-11T18:25:13.546407Z'
+publishDate: '2021-10-26T19:00:34.851260Z'
 publication_types:
 - 1
 abstract: ''

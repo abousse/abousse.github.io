@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Joint Reconstruction of Activity and Attenuation in Dynamic PET
 subtitle: ''
@@ -14,7 +14,7 @@ tags:
 - '"poster"'
 categories: []
 date: '2016-01-01'
-lastmod: 2021-03-11T19:25:12+01:00
+lastmod: 2021-10-26T19:00:23Z
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-11T18:25:12.821358Z'
+publishDate: '2021-10-26T19:00:22.729659Z'
 publication_types:
 - 1
 abstract: ''

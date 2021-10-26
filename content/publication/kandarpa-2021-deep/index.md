@@ -1,20 +1,20 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Ensemble of Neural Networks for 3D Position Estimation in Monolithic PET Detectors
+title: Deep learning based Direct Sparse-View CT Image Reconstruction with Concatenated
+  U-Net
 subtitle: ''
 summary: ''
 authors:
-- A. Iborra
-- A. J. González
-- A. González-Montoro
+- V. S. S. Kandarpa
+- A. Perelli
 - A. Bousse
 - D. Visvikis
 tags:
-- '"article"'
+- '"poster"'
 categories: []
-date: '2019-01-01'
-lastmod: 2021-03-11T19:25:05+01:00
+date: '2021-01-01'
+lastmod: 2021-10-26T19:00:36Z
 featured: false
 draft: false
 
@@ -32,10 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-11T18:25:05.248747Z'
+publishDate: '2021-10-26T19:00:35.706102Z'
 publication_types:
-- 2
+- 1
 abstract: ''
-publication: '*Physics in Medicine & Biology*'
-doi: 10.1088/1361-6560/ab3b86
+publication: '*IEEE Nucl. Sci. Symp. Med. Imag. Conf. Rec.*'
 ---
