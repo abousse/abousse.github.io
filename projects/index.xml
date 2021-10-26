@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Alexandre Bousse</title><link>/projects/</link><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><lastBuildDate>Sun, 10 Jan 2021 15:22:47 +0100</lastBuildDate><image><url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url><title>Projects</title><link>/projects/</link></image><item><title>MultiRecon</title><link>/projects/multirecon/</link><pubDate>Sun, 10 Jan 2021 15:22:47 +0100</pubDate><guid>/projects/multirecon/</guid><description>&lt;p>The MultiRecon project is funded by the French ANR under the code name ANR-20-CE45-0020, with a 498,350.88€ grant. The project will start on 01/01/2021, and will involve the following partners:&lt;/p>
-&lt;ul>
-&lt;li>LaTIM U1101, Brest, France&lt;/li>
-&lt;li>CREATIS, Lyon, France&lt;/li>
-&lt;li>CEA, Brest, France&lt;/li>
-&lt;li>CHU Poitiers, Poitiers, France&lt;/li>
-&lt;/ul>
-&lt;p>The objectives of this project are:&lt;/p>
-&lt;ul>
-&lt;li>Work package 1: to develop new multimodal convolutional dictionary learning (MCDL) techniques for multimodal image reconstruction;&lt;/li>
-&lt;li>Work Package 2: to further extend these methodologies for dynamic imaging: motion compensation and kinetic imaging in PET/CT and PET/MRI;&lt;/li>
-&lt;li>Work Package 3: to disseminate the new methodologies via the open source platform CASToR and to evaluate them on realistic data.&lt;/li>
-&lt;/ul></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Alexandre Bousse</title><link>/projects/</link><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url><title>Projects</title><link>/projects/</link></image><item><title>MultiRecon</title><link>/projects/multirecon/</link><pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate><guid>/projects/multirecon/</guid><description/></item></channel></rss>
