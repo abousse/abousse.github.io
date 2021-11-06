@@ -14,7 +14,7 @@ tags:
 - '"poster"'
 categories: []
 date: '2005-01-01'
-lastmod: 2021-11-06T08:29:56Z
+lastmod: 2021-11-06T08:54:45Z
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:29:56.267243Z'
+publishDate: '2021-11-06T08:54:44.638089Z'
 publication_types:
 - 1
 abstract: ''

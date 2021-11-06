@@ -17,7 +17,7 @@ tags:
 - '"oral"'
 categories: []
 date: '2015-01-01'
-lastmod: 2021-11-06T08:30:05Z
+lastmod: 2021-11-06T08:54:53Z
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:30:04.720703Z'
+publishDate: '2021-11-06T08:54:53.234869Z'
 publication_types:
 - 1
 abstract: ''

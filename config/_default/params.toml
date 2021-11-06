@@ -94,7 +94,7 @@ address = {street = "22 avenue Camille Desmoulins, Bâtiment IBRBS", city = "Bre
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "48.39574", longitude = "-4.48766"}
+coordinates = {latitude = "48.39658982866753", longitude = "-4.488459329739273"}
 
 
 
