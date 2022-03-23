@@ -15,7 +15,7 @@ tags:
 - '"article"'
 categories: []
 date: '2022-01-01'
-lastmod: 2022-01-16T17:12:04Z
+lastmod: 2022-03-23T21:01:40Z
 featured: false
 draft: false
 
@@ -33,9 +33,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-16T17:12:03.359198Z'
+publishDate: '2022-03-23T21:01:36.660540Z'
 publication_types:
 - 2
 abstract: ''
 publication: '*Physics in Medicine & Biology*'
+url_pdf: https://arxiv.org/abs/2203.05968
+doi: 10.1088/1361-6560/ac4c32
 ---
