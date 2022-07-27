@@ -4,7 +4,7 @@
 &lt;p>&lt;strong>References&lt;/strong>&lt;/p>
 &lt;p>[1] V. S. S. Kandarpa, A. Bousse, D. Benoit, and D. Visvikis, “Dug-recon: A framework for direct image reconstruction using convolutional generative networks,” IEEE Transactions on Radiation and Plasma Medical Sciences, 2020. doi: 10.1109/TRPMS.2020.3033172.&lt;/p></description></item><item><title>Joint Reconstruction/Motion Estimation (JRM)</title><link>/softwares/jrm/</link><pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate><guid>/softwares/jrm/</guid><description>&lt;p>The Joint Reconstruction/Motion (JRM) toolbox developed for [1], [2]
 and to some extend [3]. It includes basic tools for PET/CT and PET/MRI motion estimation and compensation.&lt;/p>
-&lt;p>The code is available on &lt;a href="https://gitlab.com/abousse/jrm_lite" target="_blank" rel="noopener">Gitlab&lt;/a>.&lt;/p>
+&lt;p>The code is available on &lt;a href="https://gitlab.com/abousse/jrm_lite" target="_blank" rel="noopener">GitLab&lt;/a>.&lt;/p>
 &lt;p>&lt;strong>References&lt;/strong>&lt;/p>
 &lt;p>[1] A. Bousse, O. Bertolli, D. Atkinson, S. Arridge, S. Ourselin, B. F. Hutton, and K. Thielemans. “Maximum-Likelihood Joint Image Reconstruction/Motion Estimation in Attenuation-Corrected Respiratory Gated PET/CT using a Single Attenuation Map”. In: IEEE Trans. Med. Imag. 35.1 (2016), pp. 217–228.
 &lt;a href="https://doi.org/10.1109/TMI.2015.2464156" target="_blank" rel="noopener">PDF&lt;/a>&lt;/p>
