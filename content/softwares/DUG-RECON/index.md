@@ -43,7 +43,7 @@ slides: ""
 
 Tomographic Medical Image Reconstruction involves the mapping from projection space data collected by detectors to images that can be analysed for diagnosis. This work is an attempt to use Deep Learning to entirely perform the task of Reconstruction.
 
-The code is available on [Gitlab](https://github.com/sai-sundar/DUG-RECON).
+The code is available on [GitHub](https://github.com/sai-sundar/DUG-RECON).
 
 **References**
 
