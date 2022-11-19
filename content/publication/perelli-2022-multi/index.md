@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Multi-Channel Convolutional Analysis Operator Learning for Dual-Energy CT Reconstruction
+title: Multi-channel convolutional analysis operator learning for dual-energy CT reconstruction
 subtitle: ''
 summary: ''
 authors:
 - A. Perelli
-- S. Alfonso Garcia
+- S. A. Garcia
 - A. Bousse
 - J.-P. Tasu
 - N. Efthimiadis
@@ -16,7 +16,7 @@ tags:
 categories: []
 date: '2022-01-01'
 lastmod: 2022-03-23T21:01:40Z
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -33,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-23T21:01:36.660540Z'
+publishDate: '2022-11-19T16:27:10.731120Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*Physics in Medicine & Biology*'
 url_pdf: https://arxiv.org/abs/2203.05968

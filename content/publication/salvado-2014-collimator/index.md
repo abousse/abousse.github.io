@@ -13,7 +13,7 @@ authors:
 - B. F. Hutton
 - ' others'
 tags:
-- '"abstract"'
+- abstract
 categories: []
 date: '2014-01-01'
 lastmod: 2021-11-06T08:54:42Z
@@ -34,11 +34,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:54:42.096284Z'
+publishDate: '2022-11-19T16:32:00.959494Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*EJNMMI physics*'
 url_pdf: https://doi.org/10.1186/2197-7364-1-S1-A21
 doi: 10.1186/2197-7364-1-S1-A21
+links:
+- name: URL
+  url: https://doi.org/10.1186/2197-7364-1-S1-A21
 ---

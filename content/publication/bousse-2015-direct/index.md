@@ -14,7 +14,7 @@ authors:
 - B. H. Hutton
 - K. Thielemans
 tags:
-- '"oral"'
+- oral
 categories: []
 date: '2015-01-01'
 lastmod: 2021-11-06T08:54:53Z
@@ -35,9 +35,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:54:53.234869Z'
+publishDate: '2022-11-19T16:32:11.200014Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*International Conference on Fully Three-Dimensional Image Reconstruction
   in Radiology and Nuclear Medicine*'

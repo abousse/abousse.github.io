@@ -12,7 +12,7 @@ authors:
 - B. F. Hutton
 - Kris Thielemans
 tags:
-- '"abstract"'
+- abstract
 categories: []
 date: '2019-01-01'
 lastmod: 2021-11-06T08:54:58Z
@@ -33,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:54:57.526194Z'
+publishDate: '2022-11-19T16:32:15.248650Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*Eur. Assoc. Nucl. Med.*'
 ---

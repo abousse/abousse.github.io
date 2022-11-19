@@ -11,7 +11,7 @@ authors:
 - A. Bousse
 - D. Visvikis
 tags:
-- '"article"'
+- article
 categories: []
 date: '2019-01-01'
 lastmod: 2021-11-06T08:53:54Z
@@ -32,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:53:54.387509Z'
+publishDate: '2022-11-19T16:27:19.653909Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*Physics in Medicine & Biology*'
 doi: 10.1088/1361-6560/ab3b86

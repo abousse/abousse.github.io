@@ -16,7 +16,7 @@ authors:
 - C. W. Stearns
 - K. Thielemans
 tags:
-- '"article"'
+- article
 categories: []
 date: '2020-01-01'
 lastmod: 2021-11-06T08:53:53Z
@@ -37,9 +37,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:53:53.530775Z'
+publishDate: '2022-11-19T16:27:18.852575Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*IEEE Transactions on Medical Imaging*'
 doi: 10.1109/TMI.2019.2913889

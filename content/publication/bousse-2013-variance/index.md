@@ -12,7 +12,7 @@ authors:
 - D. Salvado
 - B. F. Hutton
 tags:
-- '"poster"'
+- poster
 categories: []
 date: '2013-01-01'
 lastmod: 2021-11-06T08:54:24Z
@@ -33,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:54:23.525741Z'
+publishDate: '2022-11-19T16:31:40.834160Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*IEEE Nucl. Sci. Symp. Med. Imag. Conf. Rec.*'
 doi: 10.1109/NSSMIC.2013.6829221

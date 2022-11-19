@@ -11,7 +11,7 @@ authors:
 - H. Shu
 - L. Luo
 tags:
-- '"article"'
+- article
 categories: []
 date: '2007-01-01'
 lastmod: 2021-11-06T08:54:01Z
@@ -32,11 +32,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:54:01.303826Z'
+publishDate: '2022-11-19T16:27:26.253642Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*IEEE Transactions on Nuclear Science*'
 url_pdf: https://hal.archives-ouvertes.fr/inserm-00184255
 doi: 10.1109/TNS.2007.901200
+links:
+- name: URL
+  url: https://hal.archives-ouvertes.fr/inserm-00184255
 ---

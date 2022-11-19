@@ -14,7 +14,7 @@ authors:
 - S. Ourselin
 - B. F. Hutton
 tags:
-- '"oral"'
+- oral
 categories: []
 date: '2015-01-01'
 lastmod: 2021-11-06T08:54:52Z
@@ -35,9 +35,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:54:52.449462Z'
+publishDate: '2022-11-19T16:32:10.339596Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*Comp. Methods for Mol. Imag. MICCAI Workshop*'
 doi: 10.1007/978-3-319-18431-9_6

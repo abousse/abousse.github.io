@@ -1,19 +1,24 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'LRR-CED: low-resolution reconstruction-aware convolutional encoder--decoder
-  network for direct sparse-view CT image reconstruction'
+title: Synergistic Multi-Energy ' Reconstruction with a Deep Penalty ``Connecting
+  the Energies''
 subtitle: ''
 summary: ''
 authors:
-- V. S. S. Kandarpa
-- A. Perelli
+- Z. Wang
 - A. Bousse
+- F. Vermet
+- N. J. Pinton
+- J. Froment
+- B. Vedel
+- J.-P. Tasu
 - D. Visvikis
-tags: []
+tags:
+- poster
 categories: []
 date: '2022-01-01'
-lastmod: 2022-07-14T16:30:55Z
+lastmod: 2022-11-19T16:31:59Z
 featured: false
 draft: false
 
@@ -31,9 +36,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-19T16:27:09.899583Z'
+publishDate: '2022-11-19T16:31:58.791400Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
-publication: '*Physics in Medicine & Biology*'
+publication: '*IEEE Nucl. Sci. Symp. Med. Imag. Conf. Rec.*'
 ---

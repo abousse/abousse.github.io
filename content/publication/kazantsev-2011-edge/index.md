@@ -12,7 +12,7 @@ authors:
 - B. F. Hutton
 - S. Ourselin
 tags:
-- '"poster"'
+- poster
 categories: []
 date: '2011-01-01'
 lastmod: 2021-11-06T08:54:49Z
@@ -33,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:54:49.074501Z'
+publishDate: '2022-11-19T16:32:07.303363Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*IEEE Int. Symp. on Bio-med. Imag.: From Nano to Macro*'
 doi: 10.1109/ISBI.2011.5872607

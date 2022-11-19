@@ -18,11 +18,11 @@ authors:
 - S. Arridge
 - K. Thielemans
 tags:
-- '"article"'
+- article
 categories: []
 date: '2020-01-01'
 lastmod: 2021-11-06T08:53:51Z
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -39,11 +39,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:53:50.967758Z'
+publishDate: '2022-11-19T16:27:16.292948Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*IEEE Transactions on Radiation and Plasma Medical Sciences*'
 url_pdf: https://ieeexplore.ieee.org/document/9024002
 doi: 10.1109/TRPMS.2020.2978449
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/document/9024002
 ---

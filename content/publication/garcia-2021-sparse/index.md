@@ -11,7 +11,7 @@ authors:
 - A. Bousse
 - D. Visvikis
 tags:
-- '"poster"'
+- poster
 categories: []
 date: '2021-01-01'
 lastmod: 2021-11-06T08:54:57Z
@@ -32,11 +32,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:54:56.690799Z'
+publishDate: '2022-11-19T16:32:14.478356Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*International Conference on Fully Three-Dimensional Image Reconstruction
   in Radiology and Nuclear Medicine*'
 url_pdf: https://arxiv.org/abs/2110.04143
+links:
+- name: URL
+  url: https://arxiv.org/abs/2110.04143
 ---

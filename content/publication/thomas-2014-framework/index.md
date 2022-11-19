@@ -16,7 +16,7 @@ authors:
 - S. Ourselin
 - B. F. Hutton
 tags:
-- '"article"'
+- article
 categories: []
 date: '2014-01-01'
 lastmod: 2021-11-06T08:54:06Z
@@ -37,9 +37,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:54:06.355979Z'
+publishDate: '2022-11-19T16:27:31.265630Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*Nuclear Instruments and Methods in Physics Research Section A*'
 doi: 10.1016/j.nima.2013.08.063

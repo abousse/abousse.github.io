@@ -11,7 +11,7 @@ authors:
 - S. Arridge
 - S. Ourselin
 tags:
-- '"article"'
+- article
 categories: []
 date: '2011-01-01'
 lastmod: 2021-11-06T08:54:08Z
@@ -32,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:54:08.183332Z'
+publishDate: '2022-11-19T16:27:32.895070Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*Lecture Notes in Computer Science*'
 doi: 10.1007/978-3-642-23623-5_73

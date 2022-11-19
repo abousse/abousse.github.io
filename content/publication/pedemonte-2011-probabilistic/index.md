@@ -11,7 +11,7 @@ authors:
 - S. Arridge
 - S. Ourselin
 tags:
-- '"poster"'
+- poster
 categories: []
 date: '2011-01-01'
 lastmod: 2021-11-06T08:54:50Z
@@ -32,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:54:49.911196Z'
+publishDate: '2022-11-19T16:32:08.062342Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*Machine Learning in Med. Imag.*'
 doi: 10.1007/978-3-642-24319-6_21

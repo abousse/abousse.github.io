@@ -15,7 +15,7 @@ authors:
 - S. Arridge
 - K. Thielemans
 tags:
-- '"poster"'
+- poster
 categories: []
 date: '2020-01-01'
 lastmod: 2021-11-06T08:54:38Z
@@ -36,9 +36,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:54:37.868346Z'
+publishDate: '2022-11-19T16:31:54.699235Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*IEEE Nucl. Sci. Symp. Med. Imag. Conf. Rec.*'
 ---

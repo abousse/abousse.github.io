@@ -12,7 +12,7 @@ authors:
 - J.-J. Bellanger
 - C. Toumoulin
 tags:
-- '"abstract"'
+- abstract
 categories: []
 date: '2008-01-01'
 lastmod: 2021-11-06T08:54:52Z
@@ -33,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:54:51.573176Z'
+publishDate: '2022-11-19T16:32:09.605975Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*Comp. in Cardio.*'
 doi: 10.1109/CIC.2008.4749095

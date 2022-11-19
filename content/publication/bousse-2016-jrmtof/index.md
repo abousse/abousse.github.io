@@ -14,7 +14,7 @@ authors:
 - B. F. Hutton
 - K. Thielemans
 tags:
-- '"article"'
+- article
 categories: []
 date: '2016-01-01'
 lastmod: 2021-11-06T08:53:56Z
@@ -35,11 +35,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:53:56.155198Z'
+publishDate: '2022-11-19T16:27:21.319238Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*Physics in Medicine & Biology*'
 url_pdf: https://doi.org/10.1088/0031-9155/61/3/L11
 doi: 10.1088/0031-9155/61/3/L11
+links:
+- name: URL
+  url: https://doi.org/10.1088/0031-9155/61/3/L11
 ---

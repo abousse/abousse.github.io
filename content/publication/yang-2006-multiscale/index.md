@@ -10,7 +10,7 @@ authors:
 - C. Toumoulin
 - H. Shu
 tags:
-- '"poster"'
+- poster
 categories: []
 date: '2006-01-01'
 lastmod: 2021-11-06T08:54:46Z
@@ -31,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:54:45.572538Z'
+publishDate: '2022-11-19T16:32:04.136016Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*IEEE Eng. Med. Biol. Soc. Conf. Rec.*'
 doi: 10.1109/IEMBS.2006.260712

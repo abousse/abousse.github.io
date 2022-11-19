@@ -14,7 +14,7 @@ authors:
 - B. H. Hutton
 - K. Erlandsson
 tags:
-- '"article"'
+- article
 categories: []
 date: '2016-01-01'
 lastmod: 2021-11-06T08:53:59Z
@@ -35,11 +35,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:53:58.718791Z'
+publishDate: '2022-11-19T16:27:23.793550Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*Physics in Medicine & Biology*'
 url_pdf: https://discovery.ucl.ac.uk/id/eprint/1523346
 doi: 10.1088/0031-9155/61/22/7975
+links:
+- name: URL
+  url: https://discovery.ucl.ac.uk/id/eprint/1523346
 ---

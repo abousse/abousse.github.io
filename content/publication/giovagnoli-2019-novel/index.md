@@ -20,7 +20,7 @@ authors:
 - D. Thers
 - D. Visvikis
 tags:
-- '"oral"'
+- oral
 categories: []
 date: '2019-01-01'
 lastmod: 2021-11-06T08:54:34Z
@@ -41,9 +41,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:54:33.658534Z'
+publishDate: '2022-11-19T16:31:50.496490Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*IEEE Nucl. Sci. Symp. Med. Imag. Conf. Rec.*'
 ---

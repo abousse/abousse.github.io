@@ -11,7 +11,7 @@ authors:
 - M. Evans
 - B. F. Hutton
 tags:
-- '"abstract"'
+- abstract
 categories: []
 date: '2010-01-01'
 lastmod: 2021-11-06T08:54:51Z
@@ -32,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:54:50.696367Z'
+publishDate: '2022-11-19T16:32:08.795513Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*Soc. of Nuclear. Med. Abstracts*'
 ---

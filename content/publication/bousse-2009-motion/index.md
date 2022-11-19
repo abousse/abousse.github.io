@@ -12,7 +12,7 @@ authors:
 - J.-J. Bellanger
 - C. Toumoulin
 tags:
-- '"article"'
+- article
 categories: []
 date: '2009-01-01'
 lastmod: 2021-11-06T08:54:04Z
@@ -33,11 +33,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:54:03.783463Z'
+publishDate: '2022-11-19T16:27:28.708556Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*IEEE Transactions on Biomedical Engineering*'
 url_pdf: https://hal.archives-ouvertes.fr/inserm-00418315
 doi: 10.1109/TBME.2008.2005205
+links:
+- name: URL
+  url: https://hal.archives-ouvertes.fr/inserm-00418315
 ---

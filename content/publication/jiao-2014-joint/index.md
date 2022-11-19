@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - J. Jiao
-- A. Bousse$^*$
+- A. Bousse
 - K. Thielemans
 - P. Markiewicz
 - N. Burgos
@@ -16,7 +16,7 @@ authors:
 - B. F. Hutton
 - S. Ourselin
 tags:
-- '"article"'
+- article
 categories: []
 date: '2014-01-01'
 lastmod: 2021-11-06T08:54:07Z
@@ -37,9 +37,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:54:07.239513Z'
+publishDate: '2022-11-19T16:27:32.124140Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*Lecture Notes in Computer Science*'
 doi: 10.1007/978-3-319-10404-1_15

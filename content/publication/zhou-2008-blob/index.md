@@ -14,7 +14,7 @@ authors:
 - C. Toumoulin
 - J.-L. Coatrieux
 tags:
-- '"poster"'
+- poster
 categories: []
 date: '2008-01-01'
 lastmod: 2021-11-06T08:54:48Z
@@ -35,11 +35,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:54:48.219482Z'
+publishDate: '2022-11-19T16:32:06.523734Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*Medical Imaging 2008: Physics of Medical Imaging*'
 url_pdf: https://hal.archives-ouvertes.fr/inserm-00335244
 doi: 10.1117/12.769478
+links:
+- name: URL
+  url: https://hal.archives-ouvertes.fr/inserm-00335244
 ---

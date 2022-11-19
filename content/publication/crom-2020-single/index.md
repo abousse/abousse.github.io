@@ -17,7 +17,7 @@ authors:
 - S. Stute
 - T. Carlier
 tags:
-- '"poster"'
+- poster
 categories: []
 date: '2020-01-01'
 lastmod: 2021-11-06T08:54:37Z
@@ -38,9 +38,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:54:37.054301Z'
+publishDate: '2022-11-19T16:31:53.844461Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*IEEE Nucl. Sci. Symp. Med. Imag. Conf. Rec.*'
 ---

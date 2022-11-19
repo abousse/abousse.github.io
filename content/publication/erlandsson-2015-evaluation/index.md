@@ -10,7 +10,7 @@ authors:
 - A. Bousse
 - B. F. Hutton
 tags:
-- '"abstract"'
+- abstract
 categories: []
 date: '2015-01-01'
 lastmod: 2021-11-06T08:54:44Z
@@ -31,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:54:43.817401Z'
+publishDate: '2022-11-19T16:32:02.556817Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*EJNMMI physics*'
 doi: 10.1186/2197-7364-2-S1-A47

@@ -18,7 +18,7 @@ authors:
 - B. F. Hutton
 - S. Ourselin
 tags:
-- '"article"'
+- article
 categories: []
 date: '2017-01-01'
 lastmod: 2021-11-06T08:53:57Z
@@ -39,11 +39,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:53:57.031900Z'
+publishDate: '2022-11-19T16:27:22.114338Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*IEEE Transactions on Medical Imaging*'
 url_pdf: https://doi.org/10.1109/TMI.2016.2594150
 doi: 10.1109/TMI.2016.2594150
+links:
+- name: URL
+  url: https://doi.org/10.1109/TMI.2016.2594150
 ---

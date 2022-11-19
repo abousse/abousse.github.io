@@ -14,7 +14,7 @@ authors:
 - B. F. Hutton
 - S. Ourselin
 tags:
-- '"poster"'
+- poster
 categories: []
 date: '2010-01-01'
 lastmod: 2021-11-06T08:54:20Z
@@ -35,9 +35,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:54:20.276679Z'
+publishDate: '2022-11-19T16:31:37.643278Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*IEEE Nucl. Sci. Symp. Med. Imag. Conf. Rec.*'
 doi: 10.1109/NSSMIC.2010.5874415

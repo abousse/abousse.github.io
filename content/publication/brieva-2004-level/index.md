@@ -11,7 +11,7 @@ authors:
 - A. Bousse
 - J.-J. Bellanger
 tags:
-- '"poster"'
+- poster
 categories: []
 date: '2005-01-01'
 lastmod: 2021-11-06T08:54:45Z
@@ -32,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:54:44.638089Z'
+publishDate: '2022-11-19T16:32:03.377097Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*IEEE Eng. Med. Biol. Soc. Conf. Rec.*'
 doi: 10.1109/IEMBS.2005.1615949

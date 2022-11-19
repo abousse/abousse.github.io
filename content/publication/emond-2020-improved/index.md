@@ -12,7 +12,7 @@ authors:
 - B. F. Hutton
 - K. Thielemans
 tags:
-- '"article"'
+- article
 categories: []
 date: '2020-01-01'
 lastmod: 2021-11-06T08:53:50Z
@@ -33,11 +33,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:53:50.115310Z'
+publishDate: '2022-11-19T16:27:15.500106Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*IEEE Transactions on Radiation and Plasma Medical Sciences*'
 url_pdf: https://ieeexplore.ieee.org/document/9112356
 doi: 10.1109/TRPMS.2020.3001094
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/document/9112356
 ---

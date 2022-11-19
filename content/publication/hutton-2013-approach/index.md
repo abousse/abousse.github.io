@@ -16,7 +16,7 @@ authors:
 - S. Arridge
 - S. Ourselin
 tags:
-- '"article"'
+- article
 categories: []
 date: '2013-01-01'
 lastmod: 2021-11-06T08:54:05Z
@@ -37,11 +37,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-06T08:54:04.657775Z'
+publishDate: '2022-11-19T16:27:29.531392Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*Nuclear Instruments and Methods in Physics Research Section A*'
 url_pdf: https://doi.org/10.1016/j.nima.2012.07.059
 doi: 10.1016/j.nima.2012.07.059
+links:
+- name: URL
+  url: https://doi.org/10.1016/j.nima.2012.07.059
 ---
