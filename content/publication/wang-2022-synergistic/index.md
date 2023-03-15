@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Synergistic Multi-Energy ' Reconstruction with a Deep Penalty ``Connecting
+title: Synergistic Multi-Energy Reconstruction with a Deep Penalty ``Connecting
   the Energies''
 subtitle: ''
 summary: ''
