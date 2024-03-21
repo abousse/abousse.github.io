@@ -5,15 +5,15 @@ title: 4-D generative model for PET/MRI reconstruction
 subtitle: ''
 summary: ''
 authors:
-- S. Pedemonte
-- A. Bousse
-- B. F. Hutton
-- S. Arridge
-- S. Ourselin
+- Stefano Pedemonte
+- Alexandre Bousse
+- Brian F Hutton
+- Simon Arridge
+- Sebastien Ourselin
 tags: []
 categories: []
 date: '2011-01-01'
-lastmod: 2023-02-23T18:01:14Z
+lastmod: 2024-03-21T18:21:46Z
 featured: false
 draft: false
 
@@ -31,10 +31,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-02-04T12:37:46.189833Z'
+publishDate: '2024-03-21T18:21:45.458161Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
-publication: '*Lecture Notes in Computer Science*'
+publication: '*Medical Image Computing and Computer-Assisted Intervention--MICCAI
+  2011: 14th International Conference, Toronto, Canada, September 18-22, 2011, Proceedings,
+  Part I 14*'
 doi: 10.1007/978-3-642-23623-5_73
 ---

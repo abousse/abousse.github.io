@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Joint PET/CT Reconstruction Using a Double Variational Autoencoder '
+title: Joint PET/CT Reconstruction Using a Double Variational Autoencoder
 subtitle: ''
 summary: ''
 authors:
@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2023-01-01'
-lastmod: 2024-02-04T12:33:19Z
+lastmod: 2024-03-21T18:21:32Z
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-02-04T12:36:06.714737Z'
+publishDate: '2024-03-21T18:21:31.994743Z'
 publication_types:
 - '1'
 abstract: ''

@@ -1,22 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Joint Direct Motion Estimation/Kinetic Images Reconstruction from Gated PET
-  Data
+title: Markov random field and Gaussian mixture for segmented MRI-based partial volume
+  correction in PET
 subtitle: ''
 summary: ''
 authors:
 - A. Bousse
-- J. Jiao
-- K. Thielemans
-- D. Atkinson
-- S. Arridge
+- S. Pedemonte
+- B. A. Thomas
+- K. Erlandsson
 - S. Ourselin
+- S. Arridge
 - B. F. Hutton
 tags: []
 categories: []
-date: '2015-01-01'
-lastmod: 2023-02-23T18:02:15Z
+date: '2018-01-01'
+lastmod: 2024-03-21T18:21:07Z
 featured: false
 draft: false
 
@@ -34,10 +34,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-02-04T12:36:18.877494Z'
+publishDate: '2024-03-21T18:21:06.670882Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Comp. Methods for Mol. Imag. MICCAI Workshop*'
-doi: 10.1007/978-3-319-18431-9_6
+publication: '*IEEE Nuclear Science Symposium Medical Imaging Conference and Room
+  Temperature Semiconductor Conference*'
 ---
