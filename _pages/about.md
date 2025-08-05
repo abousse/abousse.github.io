@@ -29,6 +29,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a full researcher at the French National Institute of Health and Medical Research (Inserm) and part of the LaTIM, UMR 1101. My research is focused on medical image reconstruction. I am mostly interested in model-based iterative reconstruction and machine-learning techniques, and their implementation for the clinic. In this regard, I am at the interface between theoretical and translational research.
+I am a researcher at the French National Institute of Health and Medical Research (Inserm) and part of the LaTIM, UMR 1101. My research is focused on medical image reconstruction. I am mostly interested in model-based iterative reconstruction and machine-learning techniques, and their implementation for the clinic. In this regard, I am at the interface between theoretical and translational research.
 
 I obtained my PhD with LTSI, UMR 1099, University of Rennes 1 and Nanjing Southeast University. Following that, I did a postdoc at University College London, within the Institute of Nuclear Medicine.
