@@ -1,3 +1,4 @@
 User-agent: *
+Disallow:
 
-Sitemap: /sitemap.xml
+Sitemap: https://abousse.github.io/sitemap.xml
