@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Full researcher</a>. LaTIM, Inserm UMR 1101, University of Western Brittany, Brest, France.
+subtitle: Researcher, LaTIM, Inserm UMR 1101, University of Western Brittany, Brest, France.
 
 profile:
   align: right
