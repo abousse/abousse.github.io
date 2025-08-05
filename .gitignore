@@ -23,6 +23,5 @@ vendor
 *.out
 *.loc
 *.soc
-*.pdf
 *(busy)
 *.fls
