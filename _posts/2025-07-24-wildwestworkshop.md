@@ -21,7 +21,7 @@ toc: true
 
 ## About the workshop
 
-I am delighted to co-organise the **Wild West Workshop** with **Hongphuong Dang**. The event is intended as a friendly, high-energy forum to share recent results, ongoing projects, and ambitious ideas in **artificial intelligence** for **inverse problems**.
+I am delighted to co-organise the **Wild West Workshop** with **Hong-Phuong Dang**. The event is intended as a friendly, high-energy forum to share recent results, ongoing projects, and ambitious ideas in **artificial intelligence** for **inverse problems**.
   
 
 
