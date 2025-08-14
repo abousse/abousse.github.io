@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Researcher, LaTIM, Inserm UMR 1101, University of Western Brittany, Brest, France.
 
