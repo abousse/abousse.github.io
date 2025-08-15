@@ -29,6 +29,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a researcher at the [French National Institute of Health and Medical Research (Inserm)]([https://duckduckgo.com](https://www.inserm.fr/)  and part of the [LaTIM, UMR 1101](https://latim.univ-brest.fr/). My research is focused on medical image reconstruction. I am mostly interested in model-based iterative reconstruction and machine-learning techniques, and their implementation for the clinic. In this regard, I am at the interface between theoretical and translational research.
+I am a researcher at the [French National Institute of Health and Medical Research (Inserm)](https://www.inserm.fr/)  and part of the [LaTIM, UMR 1101](https://latim.univ-brest.fr/). My research is focused on medical image reconstruction. I am mostly interested in model-based iterative reconstruction and machine-learning techniques, and their implementation for the clinic. In this regard, I am at the interface between theoretical and translational research.
 
 I obtained my PhD with [University of Rennes 1](https://www.univ-rennes.fr/) and [Nanjing Southeast University](https://www.seu.edu.cn/english/). Following that, I did a postdoc at [University College London](https://www.ucl.ac.uk/), within the [Institute of Nuclear Medicine](https://www.ucl.ac.uk/medical-sciences/divisions/medicine/research/nuclear-medicine).
