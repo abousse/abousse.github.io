@@ -12,7 +12,7 @@ location: "CentraleSupélec, Rennes, France"
 event_start: 2026-01-29
 event_end: 2026-01-30
 registration: "Free"
-submission_deadline: "2025-11-30"
+submission_deadline: "2025-12-01"
 submission_link: "https://wildwestworkshop.github.io/"
 toc: true
 ---
@@ -30,7 +30,7 @@ I am delighted to co-organise the **Wild West Workshop** with **Hong-Phuong Dang
 We invite submissions of short abstracts for contributed talks. Depending on the volume of submissions, we may host a **poster session during lunch** to maximise visibility and discussion.
 
 - **Registration:** Free  
-- **Submission deadline:** **_2025-11-30_** (please update)  
+- **Submission deadline:** **_2025-12-01_** (please update)  
 - **How to submit:** Via **[this link]({{ page.submission_link }})** (update if needed)  
 - **Notification date:** _TBD_  
 - **Format:** Any, e.g., 1–2 page abstract or 300-word abstract
