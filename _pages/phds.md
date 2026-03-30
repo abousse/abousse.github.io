@@ -15,7 +15,7 @@ related_publications: true
 - [**Thore Dassow**](https://www.researchgate.net/profile/Thore-Dassow): "Material Decomposition in PCCT with Diffusion Models"; **Publications**: {% cite Vazia2025 Dassow2025%}.
 - [**Corentin Vazia**](https://www.linkedin.com/in/corentin-vazia-a38aa3256/): "Une approche de la reconstruction d’images et de la décomposition de matériaux en tomodensitométrie spectrale avec régularisa-
 tion par modèle de diffusion"; **Publications**: {% cite Vazia2025 Vazia2024 Vazia2024a %}.
-- [**Youness Mellak**](https://www.linkedin.com/in/youness-mellak/): "Deep Learning Approaches for PET Imaging: Three-Gamma PET, Positron Range Correction and Direct Reconstruction"; **Publications**: {% cite Mellak2025 Mellak2025a Mellak2024 Mellak2024a Mellak2024b 2022%}. Director: Dimitris Visvikis. 
+- [**Youness Mellak**](https://www.linkedin.com/in/youness-mellak/): "Deep Learning Approaches for PET Imaging: Three-Gamma PET, Positron Range Correction and Direct Reconstruction"; **Publications**: {% cite Mellak2026 Mellak2026a Mellak2024 Mellak2024a Mellak2024b 2022%}. Director: Dimitris Visvikis. 
 
 
 <h3>Previous PhD students</h3>
