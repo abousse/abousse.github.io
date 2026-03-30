@@ -13,13 +13,14 @@ related_publications: true
 - [**Antoine De Paepe**](https://www.linkedin.com/in/antoinedepaepe/): "Motion-compensated CT reconstruction using diffusion models"; **Publications**: {% cite DePaepe2025 DePaepe2025a %}.
 - [**Clémentine Phung-Ngoc**](https://www.linkedin.com/in/clementinephung/): "Motion-compensated PET reconstruction using diffusion models"; **Publications**: {% cite PhungNgoc2025 PhungNgoc2025a %}.
 - [**Thore Dassow**](https://www.researchgate.net/profile/Thore-Dassow): "Material Decomposition in PCCT with Diffusion Models"; **Publications**: {% cite Vazia2025 Dassow2025%}.
-- [**Corentin Vazia**](https://www.linkedin.com/in/corentin-vazia-a38aa3256/): "Une approche de la reconstruction d’images et de la décomposition de matériaux en tomodensitométrie spectrale avec régularisa-
-tion par modèle de diffusion"; **Publications**: {% cite Vazia2025 Vazia2024 Vazia2024a %}.
-- [**Youness Mellak**](https://www.linkedin.com/in/youness-mellak/): "Deep Learning Approaches for PET Imaging: Three-Gamma PET, Positron Range Correction and Direct Reconstruction"; **Publications**: {% cite Mellak2026 Mellak2026a Mellak2024 Mellak2024a Mellak2024b 2022%}. Director: Dimitris Visvikis. 
+
 
 
 <h3>Previous PhD students</h3>
 
+- [**Corentin Vazia**](https://www.linkedin.com/in/corentin-vazia-a38aa3256/): "Une approche de la reconstruction d’images et de la décomposition de matériaux en tomodensitométrie spectrale avec régularisa-
+tion par modèle de diffusion"; **Publications**: {% cite Vazia2025 Vazia2024 Vazia2024a %}.
+- [**Youness Mellak**](https://www.linkedin.com/in/youness-mellak/): "Deep Learning Approaches for PET Imaging: Three-Gamma PET, Positron Range Correction and Direct Reconstruction"; **Publications**: {% cite Mellak2026 Mellak2026a Mellak2024 Mellak2024a Mellak2024b Mellak2022%}. Director: Dimitris Visvikis. 
 - [**Noel Jeffrey Pinton**](https://www.linkedin.com/in/njpinton/): ["Synergistic PET/CT reconstruction using deep-learning" (2024)](); **Publications**: {% cite Pinton2025 Pinton2023 Pinton2023a%}.
 - [**Zhihan Wang**](https://www.linkedin.com/in/zhihan-wang-0a6000195/): ["Spectral computed tomographic image reconstruction using deep learning" (2024)](https://theses.fr/2024BRES0124); **Publications**: {% cite Wang2025 Wang2024 Wang2022%}.
 - [**Venkata Sai Sundar Kandarpa**](https://www.linkedin.com/in/sai-sundar-kandarpa/): ["Tomographic image reconstruction with direct neural network approaches" (2022))](https://theses.fr/2022BRES0019); **Publications**: {% cite Bousse2024 Bousse2024a Kandarpa2022 Kandarpa2022a Kandarpa2021 Kandarpa2021a Kandarpa2019  %}.
