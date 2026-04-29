@@ -42,7 +42,7 @@ jobs:
       - name: Link Checker 🔗
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --root-dir _site _site
+          args: --root-dir ./_site "./_site/**/*.html"
         with:
           fail: true
           # only check local links
