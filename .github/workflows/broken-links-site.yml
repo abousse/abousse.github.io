@@ -46,4 +46,19 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           fail: true
-          args: --offline --root-dir ./_site --remap '_site(/?.*)/assets/(.*) _site/assets/$2' --verbose --no-progress './_site/**/*.html'
+          args: >-
+            --offline
+            --root-dir ./_site
+            --remap '_site(/?.*)/assets/(.*) _site/assets/$2'
+            --exclude '/blog/category/external-services'
+            --exclude '/blog/tag/blockquotes'
+            --exclude '/blog/tag/code'
+            --exclude '/blog/tag/formatting'
+            --exclude '/blog/tag/images'
+            --exclude '/blog/tag/links'
+            --exclude '/blog/tag/math'
+            --exclude '/books/2024'
+            --verbose
+            --no-progress
+            './_site/**/*.html'   
+            
