@@ -18,9 +18,8 @@ related_publications: true
 
 <h3>Previous PhD students</h3>
 
-- **Corentin Vazia**: "Une approche de la reconstruction d’images et de la décomposition de matériaux en tomodensitométrie spectrale avec régularisa-
-tion par modèle de diffusion"; **Publications**: {% cite Vazia2025 Vazia2024 Vazia2024a %}.
-- **Youness Mellak**: "Deep Learning Approaches for PET Imaging: Three-Gamma PET, Positron Range Correction and Direct Reconstruction"; **Publications**: {% cite Mellak2026 Mellak2026a Mellak2024 Mellak2024a Mellak2024b Mellak2022%}. Director: Dimitris Visvikis. 
+- **Corentin Vazia**: "Une approche de la reconstruction d’images et de la décomposition de matériaux en tomodensitométrie spectrale avec régularisation par modèle de diffusion"; **Publications**: {% cite Vazia2025 %} {% cite Vazia2024 %} {% cite Vazia2024a %}.
+- **Youness Mellak**: "Deep Learning Approaches for PET Imaging: Three-Gamma PET, Positron Range Correction and Direct Reconstruction"; **Publications**: {% cite Mellak2026 %} {% cite Mellak2026a %} {% cite Mellak2024 Mellak2024a %} {% cite Mellak2024b %} {% cite Mellak2022 %}. Director: Dimitris Visvikis. 
 - **Noel Jeffrey Pinton**: ["Synergistic PET/CT reconstruction using deep-learning" (2024)](); **Publications**: {% cite Pinton2025 Pinton2023 Pinton2023a%}.
 - **Zhihan Wang**: ["Spectral computed tomographic image reconstruction using deep learning" (2024)](https://theses.fr/2024BRES0124); **Publications**: {% cite Wang2025 Wang2024 Wang2022%}.
 - **Venkata Sai Sundar Kandarpa**: ["Tomographic image reconstruction with direct neural network approaches" (2022))](https://theses.fr/2022BRES0019); **Publications**: {% cite Bousse2024 Bousse2024a Kandarpa2022 Kandarpa2022a Kandarpa2021 Kandarpa2021a Kandarpa2019  %}.
