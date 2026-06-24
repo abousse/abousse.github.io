@@ -97,7 +97,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-material-decomposition-in-photon-counting-computed-tomography-with-diffusion-models-comparative-study-and-hybridization-with-variational-regularizers-by-corentin-vazia-thore-dassow-et-al-was-accepted-for-publication-at-ieee-transactions-on-radiation-and-plasma-medical-sciences-congratulations-everyone",
           title: 'Our paper “Material Decomposition in Photon-Counting Computed Tomography With Diffusion Models: Comparative Study...',
           description: "",
-          section: "News",},{id: "news-our-paper-joint-reconstruction-of-activity-and-attenuation-in-pet-by-diffusion-posterior-sampling-in-wavelet-coefficient-space-by-clémentine-phung-ngoc-et-al-was-accepted-for-publication-at-ieee-transactions-on-radiation-and-plasma-medical-sciences-congratulations-clémentine",
+          section: "News",},{id: "news-our-paper-joint-reconstruction-of-activity-and-attenuation-in-pet-by-diffusion-posterior-sampling-in-wavelet-coefficient-space-by-clémentine-phung-ngoc-et-al-was-accepted-for-publication-at-ieee-transactions-on-radiation-and-plasma-medical-sciences-congratulations",
           title: 'Our paper “Joint Reconstruction of Activity and Attenuation in PET by Diffusion Posterior...',
           description: "",
           section: "News",},{id: "projects-multirecon",
