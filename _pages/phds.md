@@ -10,9 +10,9 @@ related_publications: true
 
 <h3>Current PhD students</h3>
 
-- **Antoine De Paepe**: "Motion-compensated CT reconstruction using diffusion models"; **Publications**: {% cite DePaepe2025 DePaepe2025a %}.
-- **Clémentine Phung-Ngoc**: "Motion-compensated PET reconstruction using diffusion models"; **Publications**: {% cite PhungNgoc2025 PhungNgoc2025a %}.
-- **Thore Dassow**: "Material Decomposition in PCCT with Diffusion Models"; **Publications**: {% cite Vazia2025 Dassow2025%}.
+- **Antoine De Paepe**: "Motion-compensated CT reconstruction using diffusion models"; **Publications**: {% cite DePaepe2025 DePaepe2025a DePaepe2026 %}.
+- **Clémentine Phung-Ngoc**: "Joint reconstruction of the activity and the attenuation in PET using diffusion models"; **Publications**: {% cite PhungNgoc2025 PhungNgoc2025a PhungNgoc2025b %}.
+- **Thore Dassow**: "Material Decomposition in PCCT with Diffusion Models"; **Publications**: {% cite Vazia2025 Dassow2025 %}.
 
 
 
