@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /phds/
-title: PhD students
+title: PhDs
 description: This section lists the PhD student I supervised since my arrival at the LaTIM in 2018.
 nav: true
 nav_order: 7
