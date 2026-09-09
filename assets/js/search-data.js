@@ -44,19 +44,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teachings",
-          title: "Teachings",
-          description: "",
+        },{id: "nav-teaching",
+          title: "Teaching",
+          description: "Lectures",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teachings/";
           },
-        },{id: "nav-phd-students",
-          title: "PhD students",
+        },{id: "nav-phds",
+          title: "PhDs",
           description: "This section lists the PhD student I supervised since my arrival at the LaTIM in 2018.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/phds/";
+          },
+        },{id: "nav-talks",
+          title: "Talks",
+          description: "Invited talks, seminars, conference presentations, and tutorials.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/talks/";
           },
         },{id: "post-call-for-abstracts-wild-west-workshop-january-29-30-2026-centralesupélec-rennes",
         
@@ -102,6 +109,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-the-video-of-my-presentation-unsupervised-learning-for-ct-and-pet-reconstruction-with-generative-models-presented-at-the-2026-london-symposium-on-ai-and-reconstruction-for-biomedical-imaging-is-now-available-on-youtube-here",
           title: 'The video of my presentation, “Unsupervised Learning for CT and PET Reconstruction with...',
+          description: "",
+          section: "News",},{id: "news-i-presented-diffusion-priors-for-physics-informed-ct-and-pet-reconstruction-at-the-3rd-international-workshop-on-machine-learning-and-quantum-computing-applications-in-medicine-and-physics-wmlq-2026-in-warsaw-the-slides-are-available-here",
+          title: 'I presented “Diffusion Priors for Physics-Informed CT and PET Reconstruction” at the 3rd...',
           description: "",
           section: "News",},{id: "projects-multirecon",
           title: 'MultiRecon',
