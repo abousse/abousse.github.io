@@ -28,7 +28,7 @@ nav_order: 8
 
 **Synerbi 2026, KCL**, London, UK --- March 2026
 
-[Slides](https://gitlab.com/abousse/synerbi-london-2026/-/raw/main/synerbi_london_2026.pdf) --- [video](https://www.youtube.com/watch?v=adV_0Rkk8ns)
+[Slides](https://gitlab.com/abousse/synerbi-london-2026/-/raw/main/synerbi-london-2026.pdf) --- [video](https://www.youtube.com/watch?v=adV_0Rkk8ns)
 
 ---
 
