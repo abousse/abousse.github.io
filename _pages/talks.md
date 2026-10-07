@@ -12,7 +12,7 @@ nav_order: 8
 
 ### Modèles de diffusion pour la reconstruction TDM et TEP guidée par la physique
 
-(French version of the WMLQ with short presentation of the LaTIM)
+(French version of the WMLQ talk with short presentation of the LaTIM)
 
 **Séminaire Thales**, Moirans, France --- October 2026
 
