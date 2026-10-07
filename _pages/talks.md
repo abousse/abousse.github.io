@@ -10,6 +10,15 @@ nav_order: 8
 
 ## 2026
 
+### Modèles de diffusion pour la reconstruction TDM et TEP guidée par la physique
+
+(French version of the WMLQ with short presentation of the LaTIM)
+
+**Séminaire Thales**, Moirans, France --- October 2026
+
+[Slides](https://gitlab.com/abousse/thales-moirans-2026/-/raw/main/thales-moirans-2026.pdf) 
+
+
 ### Diffusion Priors for Physics-Informed CT and PET Reconstruction 
 
 (updated version of the Synerbi talk with new results)
