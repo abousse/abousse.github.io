@@ -52,4 +52,16 @@ Sparse and total-variation regularised image reconstruction, with an introductio
 
 Generative models as learned priors for image reconstruction, covering unsupervised learning, variational autoencoders, generative adversarial networks, and diffusion models.
 
+
+
+**Language:** French
+
+
+
+#### 8. [Lab session: iterative CT reconstruction](https://gitlab.com/abousse/tps_python/-/raw/main/tp_tdm_python/tp_tdm_python_2027.pdf)
+
+**Language:** French
+
+#### 8. [Lab session: iterative CT reconstruction](https://gitlab.com/abousse/tps_python/-/raw/main/tp_tep_python/tp_tep_python_2027.pdf)
+
 **Language:** French
