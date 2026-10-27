@@ -11,9 +11,7 @@ nav_order: 8
 ## 2026
 
 
-### Modèles de diffusion pour la reconstruction TDM et TEP guidée par la physique
-
-(French version of the WMLQ talk with short presentation of the LaTIM)
+### Décomposition des matériaux par modèles génératifs en tomodensitométrie à comptage photonique
 
 **Journée scientifique France Life Imaging**, Brest, France. --- November 2026
 
