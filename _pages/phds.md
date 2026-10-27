@@ -16,7 +16,7 @@ related_publications: true
 
 <h3>Previous PhD students</h3>
 
-- **Thore Dassow**: "Material Decomposition in PCCT with Diffusion Models"; **Publications**: {% cite Vazia2025 Dassow2025 %}.
+- **Thore Dassow**: "Generative-model-based material decomposition in spectral CT for radiotherapy applications"; **Publications**: {% cite Vazia2025 Dassow2025 %}.
 - **Corentin Vazia**: "Une approche de la reconstruction d’images et de la décomposition de matériaux en tomodensitométrie spectrale avec régularisa-
 tion par modèle de diffusion"; **Publications**: {% cite Vazia2025 Vazia2024 Vazia2024a %}.
 - **Youness Mellak**: "Deep Learning Approaches for PET Imaging: Three-Gamma PET, Positron Range Correction and Direct Reconstruction"; **Publications**: {% cite Mellak2026d Mellak2026c Mellak2026b  Mellak2026a Mellak2024 Mellak2024a Mellak2024b Mellak2022%}. Director: Dimitris Visvikis. 
