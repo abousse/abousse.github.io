@@ -10,6 +10,16 @@ nav_order: 8
 
 ## 2026
 
+
+### Modèles de diffusion pour la reconstruction TDM et TEP guidée par la physique
+
+(French version of the WMLQ talk with short presentation of the LaTIM)
+
+**Journée scientifique France Life Imaging**, Brest, France. --- November 2026
+
+[Slides](https://gitlab.com/abousse/pcct-fli-2026/-/raw/main/pcct-fli-2026.pdf) 
+
+
 ### Modèles de diffusion pour la reconstruction TDM et TEP guidée par la physique
 
 (French version of the WMLQ talk with short presentation of the LaTIM)
