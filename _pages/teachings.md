@@ -62,6 +62,6 @@ Generative models as learned priors for image reconstruction, covering unsupervi
 
 **Language:** French
 
-#### 8. [Lab session: iterative CT reconstruction](https://gitlab.com/abousse/tps_python/-/raw/main/tp_tep_python/tp_tep_python_2027.pdf)
+#### 8. [Lab session: iterative PET reconstruction](https://gitlab.com/abousse/tps_python/-/raw/main/tp_tep_python/tp_tep_python_2027.pdf)
 
 **Language:** French
