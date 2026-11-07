@@ -48,7 +48,7 @@ Sparse and total-variation regularised image reconstruction, with an introductio
 
 **Language:** French
 
-#### 7. [Unsupervised learning for image reconstruction](https://gitlab.com/abousse/cours-reco/-/raw/main/reco_ml/reco_ml.pdf)
+#### 7. [Image reconstruction using generative models](https://gitlab.com/abousse/cours-reco/-/raw/main/reco_ml/reco_ml.pdf)
 
 Generative models as learned priors for image reconstruction, covering unsupervised learning, variational autoencoders, generative adversarial networks, and diffusion models.
 
